@@ -1,0 +1,39 @@
+{
+	"onset": {
+		"Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+		"Units": "s"
+	},
+	"duration": {
+		"Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+		"Units": "s"
+	},
+	"sample": {
+		"Description": "The event onset time in number of sampling points.First sample is 0."
+	},
+	"value": {
+		"Description": "The event code (also known as trigger code or event ID) associated with the event."
+	},
+	"trial_type": {
+		"Description": "The type, category, or name of the event.",
+		"HED": {
+			"8": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/8)",
+			"9.5": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/9_5)",
+			"11": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/11)",
+			"8.5": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/8_5)",
+			"10": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/10)",
+			"11.5": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/11_5)",
+			"9": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/9)",
+			"10.5": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/10_5)",
+			"12": "Sensory-event, Experimental-stimulus, Visual-presentation, (Label/12)"
+		}
+	},
+	"Description": "Event annotations for ssvep task (10, 10.5, 11, 11.5, 12, 8, 8.5, 9, 9.5).",
+	"StimulusPresentation": {
+		"StimulusType": "JFPM visual flicker",
+		"StimulusModalities": [
+			"visual"
+		],
+		"PrimaryModality": "visual",
+		"Environment": "lab"
+	}
+}

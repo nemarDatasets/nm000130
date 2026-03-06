@@ -1,0 +1,49 @@
+{
+	"Name": "Liu2022EldBETA",
+	"BIDSVersion": "1.9.0",
+	"HEDVersion": "8.4.0",
+	"DatasetType": "derivative",
+	"License": "CC BY 4.0",
+	"Authors": [
+		"Bingchuan Liu",
+		"Yijun Wang",
+		"Xiaorong Gao",
+		"Xiaogang Chen"
+	],
+	"Funding": [
+		"National Natural Science Foundation of China (No. 62171473)",
+		"Doctoral Brain+X Seed Grant Program of Tsinghua University",
+		"Strategic Priority Research Program of Chinese Academy of Sciences (No. XDB32040200)"
+	],
+	"EthicsApprovals": [
+		"Institutional Review Board of Tsinghua University, No. 20210032"
+	],
+	"ReferencesAndLinks": [
+		"https://doi.org/10.6084/m9.figshare.18032669"
+	],
+	"DatasetDOI": "doi:10.1038/s41597-022-01372-9",
+	"GeneratedBy": [
+		{
+			"CodeURL": "https://github.com/NeuroTechX/moabb",
+			"Name": "moabb",
+			"Description": "Mother of All BCI Benchmarks",
+			"Version": "1.4.3"
+		}
+	],
+	"SourceDatasets": [
+		{
+			"DOI": "10.1038/s41597-022-01372-9",
+			"URL": "https://doi.org/10.6084/m9.figshare.18032669"
+		}
+	],
+	"Keywords": [
+		"SSVEP",
+		"BCI",
+		"EEG",
+		"elderly",
+		"aging",
+		"benchmark",
+		"JFPM"
+	],
+	"PublicationYear": 2022
+}
