@@ -1,5 +1,5 @@
 {
-	"Name": "eldBETA SSVEP benchmark dataset for elderly population",
+	"Name": "Liu2022 – eldBETA SSVEP benchmark dataset for elderly population",
 	"BIDSVersion": "1.9.0",
 	"HEDVersion": "8.4.0",
 	"DatasetType": "derivative",
@@ -44,5 +44,7 @@
 		"benchmark",
 		"JFPM"
 	],
-	"PublicationYear": 2022
+	"PublicationYear": 2022,
+	"ExperimentName": "Liu2022",
+	"Description": "eldBETA SSVEP benchmark dataset for elderly population.\n\n\nDataset summary:\n\n#Subj     100\n#Chan      64\n#Classes       9\n#Trials / class       7\nTrials length     6 s\nFreq 1000 Hz\n#Sessions       7\n\n\nParticipants:\n\n- Population: healthy\n- Age: 63.17 (range: 51-81) years\n\n\nEquipment:\n\n- Amplifier: Synamps2 (Neuroscan)\n- Montage: standard_1005\n- Reference: Cz\n\n\nData Access:\n\n- DOI: 10.1038/s41597-022-01372-9\n- Data URL: https://doi.org/10.6084/m9.figshare.18032669\n- Repository: Figshare\n\n\nExperimental Protocol:\n\n- Paradigm: ssvep\n- Task type: 9-target SSVEP speller\n- Feedback: visual\n- Stimulus: JFPM visual flicker\n\nDataset from [1]_.\n\nThe eldBETA database contains 64-channel EEG recordings from 100 elderly\nparticipants (33 males, 67 females, aged 51-81, mean age 63.17) performing\na 9-target SSVEP-BCI task. Stimuli used joint frequency and phase\nmodulation (JFPM) with 9 targets in a 3x3 matrix. Frequencies ranged\nfrom 8.0 to 12.0 Hz (0.5 Hz step).\n\nEach subject completed 7 blocks of 9 trials. Each trial consisted of a\n4 s target cue followed by 5 s of SSVEP stimulation and 1 s rest (10 s\ntotal per trial). EEG was recorded at 1000 Hz with a Synamps2 system\n(Neuroscan) using 64 channels.\n\nData is loaded from the BIDS-formatted GDF files included in each\nsubject's Figshare archive. The GDF files contain continuous recordings\nat 1000 Hz with event annotations marking each stimulus onset.\n\nWarnings\n--------\nThe GDF files in the archive are mislabeled with ``.edf`` extension\nand contain an extra header block from the biosig4octave exporter.\nThis adapter patches the header on-the-fly before reading.\n\nLike Wang2016 and BETA, this dataset uses the same 64-channel Tsinghua\nNeuroscan cap layout including 'CB1' and 'CB2' channels.\n\nReferences\n----------\n.. [1] B. Liu, Y. Wang, X. Gao, and X. Chen, \"eldBETA: A Large\nEldercare-oriented Benchmark Database of SSVEP-BCI for the Aging\nPopulation,\" Scientific Data, vol. 9, p. 252, 2022.\nDOI: 10.1038/s41597-022-01372-9"
 }
