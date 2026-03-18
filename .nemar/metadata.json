@@ -1,0 +1,110 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Bingchuan Liu": {
+      "orcid": "0000-0001-5988-6051"
+    },
+    "Yijun Wang": {},
+    "Xiaorong Gao": {},
+    "Xiaogang Chen": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-022-01372-9",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.6084/m9.figshare.18032669",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000130",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000130",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Doctoral Brain+X Seed Grant Program of Tsinghua University"
+    },
+    {
+      "funder_name": "National Natural Science Foundation of China",
+      "award_number": "62171473"
+    },
+    {
+      "funder_name": "Tsinghua University",
+      "award_title": "Doctoral Brain+X Seed Grant Program"
+    },
+    {
+      "funder_name": "Chinese Academy of Sciences",
+      "award_number": "XDB32040200",
+      "award_title": "Strategic Priority Research Program"
+    }
+  ],
+  "title": "eldBETA SSVEP benchmark dataset for elderly population",
+  "license": "CC BY 4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "18.6 GB (701 files)"
+  ],
+  "formats": [
+    ".html",
+    ".json",
+    ".md",
+    ".set",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "description": "eldBETA is a large-scale steady-state visually evoked potential (SSVEP) benchmark dataset designed for brain-computer interface (BCI) research in the elderly population. The dataset comprises EEG recordings from 100 healthy older adults (mean age 63.17 years) performing a 9-target SSVEP speller task across 7 sessions, with 64-channel recordings at 1000 Hz sampling rate. This resource provides a comprehensive benchmark for evaluating SSVEP-based BCI algorithms and classifier performance in aging populations.",
+  "methods_description": "EEG data were acquired using a Synamps2 system (Neuroscan) with 64 channels arranged according to the standard 1005 montage, referenced to Cz, at a sampling rate of 1000 Hz with 50 Hz line frequency notch filtering. Participants performed a 9-target SSVEP speller task with visual stimuli presented at frequencies ranging from 8 to 12 Hz using joint frequency-phase modulation (JFPM). Each trial lasted 5 seconds with visual feedback provided online. Data were organized in BIDS format with GDF file format.",
+  "keywords": [
+    {
+      "term": "SSVEP"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "elderly"
+    },
+    {
+      "term": "aging"
+    },
+    {
+      "term": "benchmark dataset"
+    },
+    {
+      "term": "visual evoked potentials"
+    }
+  ],
+  "source_hash": "8213efedcb632a192071f2fab887ba2c7f52e5c4ba4878a7f0b3d0fb0c7b8961"
+}
