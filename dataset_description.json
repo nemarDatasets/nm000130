@@ -1,5 +1,5 @@
 {
-	"Name": "Liu2022EldBETA",
+	"Name": "eldBETA SSVEP benchmark dataset for elderly population",
 	"BIDSVersion": "1.9.0",
 	"HEDVersion": "8.4.0",
 	"DatasetType": "derivative",
@@ -21,7 +21,6 @@
 	"ReferencesAndLinks": [
 		"https://doi.org/10.6084/m9.figshare.18032669"
 	],
-	"DatasetDOI": "doi:10.1038/s41597-022-01372-9",
 	"GeneratedBy": [
 		{
 			"CodeURL": "https://github.com/NeuroTechX/moabb",
