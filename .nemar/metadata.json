@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Liu2022 – eldBETA SSVEP benchmark dataset for elderly population",
-  "description": "The eldBETA dataset comprises 64-channel EEG recordings from 100 healthy elderly participants (aged 51-81 years) performing a 9-target steady-state visual evoked potential (SSVEP) brain-computer interface task. Using joint frequency and phase modulation stimuli with frequencies ranging from 8.0 to 12.0 Hz, the dataset contains 7 sessions per subject with visual feedback in a speller paradigm. This benchmark dataset is designed to support the development and evaluation of SSVEP-BCI systems for aging populations.",
+  "description": "The eldBETA dataset comprises 64-channel EEG recordings from 100 healthy elderly participants (aged 51-81 years) performing a 9-target steady-state visual evoked potential (SSVEP) brain-computer interface task. Using joint frequency and phase modulation stimuli across frequencies ranging from 8.0 to 12.0 Hz, the dataset contains 7 sessions per subject with visual feedback in a speller paradigm. This benchmark dataset is designed to support the development and evaluation of SSVEP-BCI systems for aging populations.",
   "methods_description": "EEG data were acquired at 1000 Hz using a 64-channel Synamps2 system (Neuroscan) with standard 10-05 montage referenced to Cz. Participants completed 7 blocks of 9 trials each, with each trial consisting of a 4-second target cue followed by 5 seconds of SSVEP stimulation and 1 second rest. Nine SSVEP targets were presented in a 3×3 matrix using joint frequency and phase modulation with frequencies from 8.0 to 12.0 Hz (0.5 Hz step).",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
@@ -19,24 +19,19 @@
       "term": "SSVEP"
     },
     {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+      "term": "brain-computer interfaces"
     },
     {
       "term": "EEG"
     },
     {
-      "term": "elderly"
-    },
-    {
       "term": "aging"
     },
     {
-      "term": "benchmark dataset"
+      "term": "elderly"
     },
     {
-      "term": "visual evoked potentials"
+      "term": "benchmark dataset"
     }
   ],
   "related_identifiers": [
@@ -95,7 +90,7 @@
     "eeg"
   ],
   "sizes": [
-    "37.3 GB (1403 files)"
+    "37.3 GB (1404 files)"
   ],
   "formats": [
     ".edf",
@@ -107,5 +102,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "c4a3fbecdf1399a83809cd606a55319e02c6ac72882a3aa4f6a92c130ab7ced1"
+  "source_hash": "68b7e2f486b8eb2a7535b1478aa0b5d17a9d30387e9ed834a1fdb06c8fa640ed"
 }
