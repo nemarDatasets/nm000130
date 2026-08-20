@@ -1,1 +1,5619 @@
-/annex/objects/SHA256E-s171904--7283798d5af046f20e6c3a0adafa4d4931bcb8ac9c9d346d5d0cc84f6cc0a161.json
+{
+ "dataset": "nm000130",
+ "moabb_class": "Liu2022EldBETA",
+ "moabb_version_used": "1.5.0",
+ "retrieved": "2026-08-11",
+ "retrieved_by": "moabb.datasets.Liu2022EldBETA.data_path()",
+ "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-liu2022eldbeta-data/eldBETA",
+ "license": "CC BY 4.0",
+ "doi": "10.1038/s41597-022-01372-9",
+ "naming": "upstream_filenames_restored",
+ "n_files": 700,
+ "total_bytes": 18692228400,
+ "files": [
+  {
+   "file": "sub-001/ses-01/eeg/sub-001_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f607850a9c3bcc4409b63851d2c12dae50ffff9116655fcb3cfa8ac4de8e565d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-001/ses-02/eeg/sub-001_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "8b93c9d53aaa6ab6387f33c8125eb8b3fa6ad1a5bbc700b1d6768788239a286a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-001/ses-03/eeg/sub-001_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "dc8297c2b5cc2d9c2e4256aea7ee8a961bec406dc57bd3830cd1edc06055a9d2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-001/ses-04/eeg/sub-001_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "edd97803f89f77e26f022b2a6fe4a4d9e4f42b11f2bf63fb53c98f6690f62efb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-001/ses-05/eeg/sub-001_ses-05_task-ssvep_eeg.edf",
+   "bytes": 28177012,
+   "sha256": "d01f5f2825d6a7f3ad44da746c9d207c801d3741e813a72bf68050366f7576ca",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-001/ses-06/eeg/sub-001_ses-06_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "1da85c764f652623600551f92896c46116ec5e6de9e5048afac3083b155a7548",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-001/ses-07/eeg/sub-001_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "93defe1d2f06fcc8fc06b507b4a04ec3989533716110ccde0b08b09232cde8df",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "1"
+  },
+  {
+   "file": "sub-002/ses-01/eeg/sub-002_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "c10e89606d1e57c6acdc8fcbfeeac62ca4e4618dcdd5ac64d33cbb166876eb2e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-002/ses-02/eeg/sub-002_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "80a5cc176bf8e6cbaf836ca05d6f73c85f2f6010554a19fe707853d803a2a1f9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-002/ses-03/eeg/sub-002_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "4f95bb97af07a2ba8c4a55b22789cbe6ab5edd55b358c07e2262abe5ddbd28f9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-002/ses-04/eeg/sub-002_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "274fc6e168277cc66b14262b359d0eed524c9b7748b7d8af4865ec723c263127",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-002/ses-05/eeg/sub-002_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2b4ab750154bde1b881c7edfa66a9f1675fb5c52e7ac5d61a9a9726b2f5ce1b6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-002/ses-06/eeg/sub-002_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9e0b9ab3dc16bab2db111ae927b60310316b77329a9b388b73640bdb3b1a4317",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-002/ses-07/eeg/sub-002_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "c850faa8f91853c089c69a54e0f7fbf3cc562b6ebcc0c6ac78041ef67604406e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "2"
+  },
+  {
+   "file": "sub-003/ses-01/eeg/sub-003_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "0a2ae025a5c2f027b39701b75543dd0c1a71308a2f74ab559f272e7a4a618ee6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-003/ses-02/eeg/sub-003_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "54d59cf3423a481774b85db99b17abf2a0b213404b9f5f69c6506728b0c075e7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-003/ses-03/eeg/sub-003_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "38215d4548e54c225206997cc626fa9550c4a7d4fad44f83bc3e49db4a732f4d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-003/ses-04/eeg/sub-003_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "7af28d37cf5840124fa46bf812b6990b1330d8f23c4b8b9ed5f609291dc0ac50",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-003/ses-05/eeg/sub-003_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "8b5dfc0d8138962672f27c6bfa48d5d8fd398933032f46cf7aea7944717124ce",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-003/ses-06/eeg/sub-003_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "4a1b7f4a5416a0f12bf8d8828fd67a0549265e9c629c704e88d5f027a60c948f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-003/ses-07/eeg/sub-003_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "b718e61b92aee76cd72225eb5059c780ee958e8cce06acb20783990f6ba956a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "3"
+  },
+  {
+   "file": "sub-004/ses-01/eeg/sub-004_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "6923c75b66b8a77e9928bf496dfdd40578030fa27ebfb42c1633a6fa1d6d4faf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-004/ses-02/eeg/sub-004_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "19343a531a0e60693630825ff759a7064faf03a7c736b8e14d711e1f1b9a9978",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-004/ses-03/eeg/sub-004_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "f38c2f9388136406d80b2311280a344a4a5ff02bbb261085adb7abcbd56742fb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-004/ses-04/eeg/sub-004_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "a253a766f6255bae2ecac1bebaa04ba1bd015409f10ebb93d2870197426bdd6b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-004/ses-05/eeg/sub-004_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "8e4ec52e44d527f55fdfb288884dd76c23b41335f0937477150bf7333695f05a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-004/ses-06/eeg/sub-004_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "3e39d8daa8b6a7473384773e66fc848976167be39250660086c8bac263189037",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-004/ses-07/eeg/sub-004_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "3f1240aaf7f43d3a9bdb260aff6360c924a4412200c8d6fd9c9b6be4b3ed04ac",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "4"
+  },
+  {
+   "file": "sub-005/ses-01/eeg/sub-005_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "d0490cc19b0e34159104b4329d2c90a5d92c7df6fd1cb28e8a51f6071d21c334",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-005/ses-02/eeg/sub-005_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "6201ec157f743ae89f00d052f7c8cdd1930cde5ffff8390410c59a5f9c428916",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-005/ses-03/eeg/sub-005_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "d4b669090964875694e889d1ed9db1668ac37f883d75ae6c2b39190c95544b81",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-005/ses-04/eeg/sub-005_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "084f8c259336c6c4976fc80398b97a4462091eb105f01d372593ba7ef4450cf2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-005/ses-05/eeg/sub-005_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "06d051d4a819040e29520fbe3a69ffbfabd58fb0a0c1f2494261885062690f74",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-005/ses-06/eeg/sub-005_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "c7dbef8da68797eb6f832f7c8eb88bb3dfbd70ee896b360aadc8c8479cd65055",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-005/ses-07/eeg/sub-005_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7e422ff71fab91f9dfce87d76478402c26cb60cfe6916c642ca24c49bc1770e0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "5"
+  },
+  {
+   "file": "sub-006/ses-01/eeg/sub-006_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25105012,
+   "sha256": "e2e6c7f052c722f9f9ba8093bc84538c5f150f760d6f6e0e2c3271460c9532da",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-006/ses-02/eeg/sub-006_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "bfbf366e3695396bfc63072f89a4ce1318a9e09c5eef36fba61721b2d1aa9fe5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-006/ses-03/eeg/sub-006_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "4ed8bfa8755a364030eb0abfcb3d5c66c40ae445d1507edf443ee6b3ed218939",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-006/ses-04/eeg/sub-006_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "108d0b7c5675a6a8f7d7a1691a5a55efe60b6f237852f08bd46d52563964ba52",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-006/ses-05/eeg/sub-006_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "8c08d580d2070d4d524ad14f657b985166697e140b28c1c86fedc6883073da49",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-006/ses-06/eeg/sub-006_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "7380ce037876ccec80ded12333d334764254a0f142e7a111d6f819c524da2a69",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-006/ses-07/eeg/sub-006_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "f082d38feaa9c7e8328c0bbabf404a0f8d3104c9b44bbd02dbce0bb259f95972",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "6"
+  },
+  {
+   "file": "sub-007/ses-01/eeg/sub-007_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f957ababdd21b04ed3044b0e567cdca6687bce257916b9322f83ee5b29719ac3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-007/ses-02/eeg/sub-007_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "0ed5d4e220f7dfa30dc8042e4519e7496700595aeb2bc75e65fa34c79795d1b3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-007/ses-03/eeg/sub-007_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "3c19c7cd124429ad2bb73002796881a6afd9645a9080b2f603df2d27bf94dd27",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-007/ses-04/eeg/sub-007_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7fdbc99a597502b6fb84101288bb52b8ad4d47402c1171613b34ca0f0bd6e6a9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-007/ses-05/eeg/sub-007_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "b694b1dbcf267df6756ef6dcd48ebfc69ca98348b5f6db9b9b98b94614ec01cf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-007/ses-06/eeg/sub-007_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "4a4c6f428ddeb58c5c78b594fc3a337af78baee48b64b047b31e7bdd7388fbaa",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-007/ses-07/eeg/sub-007_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "e1f12aff5ba01135da401f66002dc821c6ec0c7b31910bd1a43ab2f788671a0b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "7"
+  },
+  {
+   "file": "sub-008/ses-01/eeg/sub-008_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "d3147b0dbb9f9b89cdca572ae8335d41a8d6dd7c8ee09da616bb3571be834df0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-008/ses-02/eeg/sub-008_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "fd606c4d5f9624edee1eef3b8b6afd2c2697e36f609a8e92f4713e7ff4f64080",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-008/ses-03/eeg/sub-008_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "30d862a650752cef0dde33240b840091f461e69922567a865593a0769b51d388",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-008/ses-04/eeg/sub-008_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "48ac8f0c5a97d7019b3592b4a2ff1723111773cfe87367cde7535c0652a43141",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-008/ses-05/eeg/sub-008_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "554a40f945164f7b4be54d869f1c535ea82bcf61c2d33f4dec79def73cce94b6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-008/ses-06/eeg/sub-008_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "6cc71dfb0552fda477dd1127358994a02c866486ad47b082d97be28c4d7a4638",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-008/ses-07/eeg/sub-008_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "327678fc44c3aea7b9babb9e03a3f061f9f49027578adb7dc71b18e6e9064c33",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "8"
+  },
+  {
+   "file": "sub-009/ses-01/eeg/sub-009_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "08e6ec4778a5bd3c7f278085e26571df3a4d0323feaafce7c1520b090dd3ebbc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-009/ses-02/eeg/sub-009_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7d66a29269e0082cf47f8ef1c8d6fb24a2af02b3e56a99b85ef1ae12e9f2b7d8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-009/ses-03/eeg/sub-009_ses-03_task-ssvep_eeg.edf",
+   "bytes": 50193012,
+   "sha256": "3c9e2611edefdfa1cbd0426416a2a69862045b9122c6cea460a0cc7ea146a79d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-009/ses-04/eeg/sub-009_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "1abbdc21eba5888bb456a009ee6fc5aa2725c093e50607936a742a1892093748",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-009/ses-05/eeg/sub-009_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "1ada813c2bf5fb8fc4f36ea8deffb38cc7c6596b8cc0353506f18e50ac2fc5be",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-009/ses-06/eeg/sub-009_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "95888574ea679493bac028b1eb3edcf213f10f6e897864543825d1309ca4ac09",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-009/ses-07/eeg/sub-009_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "1e2fe2037a2291da0eb19481d8ddb5a4be8bfc547fff78330f73cab225964d46",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "9"
+  },
+  {
+   "file": "sub-010/ses-01/eeg/sub-010_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6079b4dc1948599e13cc39838d2aa2e1ba5a372e41c4144bcc3098ca42733af6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-010/ses-02/eeg/sub-010_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "903565938e7796f14c3afa3645ca555a355014a366910fe5b23de96de6cc1118",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-010/ses-03/eeg/sub-010_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "23e6f985ace9663255d4905e6440f944bcd077a7a8659630cfba7ac919173546",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-010/ses-04/eeg/sub-010_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "bb1190f98f087baef678479f1a4fa0d7ed0c1642c20ee1bccda3a3d424587fb9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-010/ses-05/eeg/sub-010_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "60928107b506a6c57e51191d22071d62e196d806d02d0e5c3046c5860042f230",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-010/ses-06/eeg/sub-010_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "0b9e3b295842a31ef5aa48d6e359aba2626b09efbf2db208fea4d7109878ff6b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-010/ses-07/eeg/sub-010_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "1fdaf38310dd1ea7bd5d30052efec45af1df3b1fbd07b1890a2ef51e48ee7163",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "10"
+  },
+  {
+   "file": "sub-011/ses-01/eeg/sub-011_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "be0454ac6e229015a0844bd69f2e1b4f9ea04421364bf47d941a0f7e59a4edc4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-011/ses-02/eeg/sub-011_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "a801c4b8efcd3f11d687e98cc47f17d090daee0a69d2c1e508dbce9fd203a1a0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-011/ses-03/eeg/sub-011_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9e0032b95221e0bb5ded82a576af9733e17832393a11a7cecaafb59b1176870f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-011/ses-04/eeg/sub-011_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "de83a0e55893a9cd4a4d90124938cfecf4fd095727588238e87ef312c2667928",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-011/ses-05/eeg/sub-011_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "e024f20c65554f2d569183d1059706f49d452b9f9664839de84eb5dff9d088bf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-011/ses-06/eeg/sub-011_ses-06_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "2e67ef923501cd0049ceeaefcbbc17b4bc7a24eb2a28ac534403a429962013f3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-011/ses-07/eeg/sub-011_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "9b089dc783d5561581cc4af1a8a4b5fc56e9eccc9aa9e6233c7e140d128a770b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "11"
+  },
+  {
+   "file": "sub-012/ses-01/eeg/sub-012_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "101e264f630f17c6e29d0be465705931259732be1da11d10b2d8ce51dac1380b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-012/ses-02/eeg/sub-012_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "bbd59ca4d31afaea488d714dee0838f629a8073d0c1cf1a059184b39b802909e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-012/ses-03/eeg/sub-012_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "a0b6618c17f4a49828679c8246b2f1c6ce4869e47c71b822064d48903d8709d9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-012/ses-04/eeg/sub-012_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "ce8e7f28819994e603d5d7aa0e336f4a3ec30d8fc0e8b19e04166035cb3ac98c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-012/ses-05/eeg/sub-012_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "b272463d7c5aed4299415f2cd0be70d1358603d1f3e13383368303948d20addc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-012/ses-06/eeg/sub-012_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "b183118e495119dfceb9ea8251692e7bf9f519f62de24635b603e21e53bd224c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-012/ses-07/eeg/sub-012_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "0b23d87cac143acbfed8b493e58588a51945165e2bde1211e538cf6aa162a407",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "12"
+  },
+  {
+   "file": "sub-013/ses-01/eeg/sub-013_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25105012,
+   "sha256": "2a84096e0542f0f8b8a479fc458728ded67b1be4c0e9c5ba5ada48868bc010d0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-013/ses-02/eeg/sub-013_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "b04fa0e286efbb0bdeb4169580eb9f36a0d9897d1b5e262a4464cc733e8889ff",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-013/ses-03/eeg/sub-013_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "53812946beaaacc66f4c574e9e482e5b0f5dfacb8ca8760826b3d654fb5675c4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-013/ses-04/eeg/sub-013_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "68e7d3587d5e44846681721f96782fe660e200b97ceaf6edbd1a0aa2b410ffcc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-013/ses-05/eeg/sub-013_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1c94d416240e592ca148aec23dff11ca631ae4dae69db984e99b2ca955b71726",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-013/ses-06/eeg/sub-013_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "db41e96d90eaa0dec8bf0c50dbf08e648327cad9c260ef3ab23db2f03effca28",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-013/ses-07/eeg/sub-013_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "650ca82c37b148f93fa9b03034c3c1def81916583caee74a2f87481f7d35c1d4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "13"
+  },
+  {
+   "file": "sub-014/ses-01/eeg/sub-014_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "f55edc7966d17aefdd59a0d8a05749489595782b4f246b9151035f77f187f13a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-014/ses-02/eeg/sub-014_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "104ccfe8c0cc6defa70cd62c839f772441744d5e6bebadae13f4ae707e296ebe",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-014/ses-03/eeg/sub-014_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "3e72a17205a032f3c27c658cf3bc920592de436e93427b6eec93210cd5bbe7a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-014/ses-04/eeg/sub-014_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "6d827568e48a3351ea815260a31281ae981cb5c2fd09b7f63986424d7e23637c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-014/ses-05/eeg/sub-014_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "ff1585869a2b452bff3f505811450492d26f32dbb22307fa80e2e66d14fccb4d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-014/ses-06/eeg/sub-014_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "50c9f5ed1a1d95a8df8b6aa2aedf6aa4118a1dcbfcf72e127247867612fcd48c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-014/ses-07/eeg/sub-014_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f397231ce41ad0eddc51d29e310147354bbfb0b2f9bac1ddf3c92351d1ef51cc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "14"
+  },
+  {
+   "file": "sub-015/ses-01/eeg/sub-015_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "d3fae1af77590f45a31661ecdcdb66005a17bbc5b2fc98b1084a142e624168bc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-015/ses-02/eeg/sub-015_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "cecf22b943b45bc90cad53f4392cb3bd7db0981828f65e53624b7982d8ff1cd5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-015/ses-03/eeg/sub-015_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "e8c3fb926efba22cfbc3f8f25433c45105332a43a5b0f6ae085fd6ff78f55d9e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-015/ses-04/eeg/sub-015_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "9105a5e964d56ddf65ec0ade3ad74aa2704f2dd13cc5f0da95cde96c9b828b35",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-015/ses-05/eeg/sub-015_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "eb261076b6500c28c14bf9b041ab48c7db173585d0c45d7c86414d3463695a89",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-015/ses-06/eeg/sub-015_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "4ad52b0e59c8ba069bdcd4442cff6249292c72e2468c216a1c638f17aa51ce34",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-015/ses-07/eeg/sub-015_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f8fd2e727a4ecc7fd099da4a94ef8d62ecce2042f548b45cef7e6ef82b0eb0a6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "15"
+  },
+  {
+   "file": "sub-016/ses-01/eeg/sub-016_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6f67340798701debfd2ce9e5770a84ff1d62fee582128d045630de815230aec4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-016/ses-02/eeg/sub-016_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "995bf10de47fe235e4f768e41868308d3ca85fbad3562faaa7f76991ce0a644f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-016/ses-03/eeg/sub-016_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "17ab057673becdadeeb6977ebabd05d7552a168e9d022c52086bf1dff8ad5751",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-016/ses-04/eeg/sub-016_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "5fb3793449a530171787474880742fb2731295556f92ced0b8acdf82c836277b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-016/ses-05/eeg/sub-016_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "a47af42c360c53665c9f2add6cfa4c2cd120b3238fd261ac960ab728d9783c73",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-016/ses-06/eeg/sub-016_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "aeba12edad85d8823377bb50933ff9b7b5221505db2514a3134ec789c6d1d409",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-016/ses-07/eeg/sub-016_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "78c4de3461fb985ae16edd18db79e8273583b78378b5deecd0962dee44d398c7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "16"
+  },
+  {
+   "file": "sub-017/ses-01/eeg/sub-017_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "122d8663f01c725b5843d9732d6f3c48a8efdbb82a34b551c4968e09b8cb2b50",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-017/ses-02/eeg/sub-017_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f3958ed1c0e193cba3a3d8daf69afd226e9712c8fa01cfddcabe619798ecfe9b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-017/ses-03/eeg/sub-017_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "a46aef9b96b842af3f67a5e5843feeb452dfa0b95d388d7a4ddaf78f9cdb0ce8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-017/ses-04/eeg/sub-017_ses-04_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "aedcbc4b253e42c0b7bd01fdaa5fb465d506507bbed85b1403a981066f40ed7a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-017/ses-05/eeg/sub-017_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "df2f07d46f135d9db30aef787d6ba13b5554d555f790ec4d67d43e46a604603d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-017/ses-06/eeg/sub-017_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "99ab7561f94e8d71934b25a859430e30f88ee9cf60086f2e2fc2c9b37e781d1c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-017/ses-07/eeg/sub-017_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7b51d45a91a73d6d55c7f8325df4e10ee95d610d0c299d994e106f4e7e48c0bb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "17"
+  },
+  {
+   "file": "sub-018/ses-01/eeg/sub-018_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "bc3abe7c336e98a3bcae2e8841c6d390d14d5b987c2d14933cb5c5e442d032f0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-018/ses-02/eeg/sub-018_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "8c0a132b9304a620af50856fc08eff844d94ac68a50dac80fb3d617e8902960c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-018/ses-03/eeg/sub-018_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "31a20a83c77e57455843457d5a736246c300cb9b20a69953776915de01222246",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-018/ses-04/eeg/sub-018_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "cb6745413ee3ef32469c4a750e6bd4d7d8147a44b60e4efba3a638fb06841b48",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-018/ses-05/eeg/sub-018_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9e5ba90d33ef256f5ac7e65a7a73a09ff3ed31345b9e31ec44cdba3d1616c45c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-018/ses-06/eeg/sub-018_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "d9f53da3010f4d40f6f24be1adb38043d51a0bf8d19316c6f8d046515c5e304f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-018/ses-07/eeg/sub-018_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "3f2d5a4aee4dc492ff3066526ee2fe409bbdac26455f7dc10d7e3f20ebe096a0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "18"
+  },
+  {
+   "file": "sub-019/ses-01/eeg/sub-019_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "92e19ce1f0f1e8aaa4a0b4e515d2959a42e79da1ce0a8639168317a08ebe4322",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-019/ses-02/eeg/sub-019_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "be534193724b190ef320b660c3229c4a7fcb447c65c45724eb0a6b24f294516a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-019/ses-03/eeg/sub-019_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "15a68eca91835d697ca56426c164504a89d7b1c839328049970803e547ae92a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-019/ses-04/eeg/sub-019_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "622fc67e26f7a732669e2c9078321a5e799e9197ae9a964d6af24a25c4a30c5c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-019/ses-05/eeg/sub-019_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "d61d8e80f6684060e1c617185cde44a1a1619c4116e5c07b10845bfd6b5fff5c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-019/ses-06/eeg/sub-019_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "5aabbe0978404eb6520f8a462508a4dfb623358f650ad005e3a4dfc16bab55b6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-019/ses-07/eeg/sub-019_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "07750f41d1df2aef68aadb2db6c0e134541ab4b1ce758f640a7ca0952f316f4f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "19"
+  },
+  {
+   "file": "sub-020/ses-01/eeg/sub-020_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "e225b8967fce1b29f00c3373a9e9a61ecc6389c1d28c88360032d0044f1c9cf4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-020/ses-02/eeg/sub-020_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f21031abea60aa3c6f03d1c3925773bb100caf084b98a429b179eb9e8f223473",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-020/ses-03/eeg/sub-020_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "5badbd054fdb6e371016d6dd7e277cb237b3d68655908d269216ebb63254cc1e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-020/ses-04/eeg/sub-020_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "69e08df32710918b502969fc91353643b71114e1cdd694eb7d86a420502ec7b1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-020/ses-05/eeg/sub-020_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "23289dd757b493f93ba2b16d9bb197450f5090d5ef6412f309c2526335697d44",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-020/ses-06/eeg/sub-020_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f732d91eaa03ed9dfde3810a53a937a87aaaf43796e382e02bef2676aef040c9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-020/ses-07/eeg/sub-020_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "4aaa8c261a4cbb34cb6f82b0d95f9c3179ce41bf1380d7750d7265d7588bac46",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "20"
+  },
+  {
+   "file": "sub-021/ses-01/eeg/sub-021_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "6d05cd426619ed60c3791255f5d033287789a3dc5c1315845bb9cf7676e75993",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-021/ses-02/eeg/sub-021_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "609f65ef93c3ce91f1eae9229211750c2a0e703b2f4daeeeedaa5431baf4d788",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-021/ses-03/eeg/sub-021_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "2273abddf95de4a1226a56de2b1628ab32c6e1d54a4bce8d6a5186994d343a6a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-021/ses-04/eeg/sub-021_ses-04_task-ssvep_eeg.edf",
+   "bytes": 29969012,
+   "sha256": "cba240d26d4c41b5dde4716598baf665f353075e7cb3c146d0f5a5bcd5d07fcc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-021/ses-05/eeg/sub-021_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "ba675954d9acd6c35c1754305d78db558110362297c25dd488bd3288a7d62da5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-021/ses-06/eeg/sub-021_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "b30cf31102ff9985b85d847bc4047b1edeea581ebecb6fc5bc06635547b2f713",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-021/ses-07/eeg/sub-021_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "3c2fe543ec1ebd63491af4acfeac3e82538a75ad98443b14fb07269b878e7a9f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "21"
+  },
+  {
+   "file": "sub-022/ses-01/eeg/sub-022_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "339b2e67f49b3a5d16e9e026498517aa01d8af48fa0defd175bdbb6742459744",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-022/ses-02/eeg/sub-022_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "75d18c9cf95a117d6c278b6ecf7d62e133b958a202d2a9cc3813e7129dcf0087",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-022/ses-03/eeg/sub-022_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "392fecb1b2ba94c5bdaf23e5acc37eb5a90cba2fbde242e9d33f99fd81dbce1a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-022/ses-04/eeg/sub-022_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "98882e2a20c6dfe1678d8da6b733871a51f1c22146d044f032c248d452df3ff8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-022/ses-05/eeg/sub-022_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "d102bfbf5516d0a6f563716c933b40b1a41725192487853299a093edc1c49006",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-022/ses-06/eeg/sub-022_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "fcc17bde3d4dc6a8264d3d811d37ad5868ea854c9789400c608e461f58323763",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-022/ses-07/eeg/sub-022_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "32d6f556dd87a369eae23dae38f3b2dbc329c0186b5dc56412ffc95af26c7cb2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "22"
+  },
+  {
+   "file": "sub-023/ses-01/eeg/sub-023_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "250594698c3aed9cacef838d225dfb53dabdcee0c86d77990281b23722f19515",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-023/ses-02/eeg/sub-023_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "cfe1f892a9ab5c625310beedfc2f7939a2899ecc320d02823a476641646a4532",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-023/ses-03/eeg/sub-023_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "29db6ef70e1f501f512ef68eb321573006568a7bc75984812013ffc87d0bbe52",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-023/ses-04/eeg/sub-023_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "2578f870b30d290fe7a3fcb75979eb322a2975331ce191ce4e3260d99a5d390b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-023/ses-05/eeg/sub-023_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "be5e9e33304c06df637ad8d6672525e00f31566144e043c6e097d08ef6cdbd22",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-023/ses-06/eeg/sub-023_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "243c01cf42a150b143dcfc5e52c38632c88c59cca3a2ae24a4db4dacde3aca0d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-023/ses-07/eeg/sub-023_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "17df6a6bf5e25c17098b3cc9eeb977e5aba7fc5df1bf44f33ae3964d68792ebc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "23"
+  },
+  {
+   "file": "sub-024/ses-01/eeg/sub-024_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "e4c1de06f91a35e088ebd745eb7b0155dfd60461094224f2afc3483c8f55b422",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-024/ses-02/eeg/sub-024_ses-02_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "78c8834dcba0448824e5c53471afad078dbe9d066b3e50c1c134aef8f5ba302b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-024/ses-03/eeg/sub-024_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "49e185b2c6e3090b6d11ceff717eca2b38ab1b9adc8460a5c8d8058f491d74a0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-024/ses-04/eeg/sub-024_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2ded796172f3515e145707c113b6d3a2bdc2da04a4be479c4930ce0a0d13ec57",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-024/ses-05/eeg/sub-024_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "410df19544626a834dcba08068f37072ed8192469103e01d895c9f392b7ea846",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-024/ses-06/eeg/sub-024_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "b9793c3ae4d80606a9050b03eb699403aeb1edee48e965c91d911ae183244e06",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-024/ses-07/eeg/sub-024_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "e993c24b9f7bb362aa7eb2b04d1d4659e2ed61ec13c036fdb005c0658c34ffa5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "24"
+  },
+  {
+   "file": "sub-025/ses-01/eeg/sub-025_ses-01_task-ssvep_eeg.edf",
+   "bytes": 30993012,
+   "sha256": "0ca01f37aa2035d5eb3d2d3690138e5faf6e698ce7e44efe3b3f9aa0954a7c80",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-025/ses-02/eeg/sub-025_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "afe8d4792bb5507e67232679cfd49c3ac6bc359d3445eb30e40f3465c4e14f8b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-025/ses-03/eeg/sub-025_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "35cd8dcbed975c24b4ef1ace12e4bd9db53de17327d1fb979f6f2736bd03c956",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-025/ses-04/eeg/sub-025_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "c61fabd12e5d34b988f93c3a182f2b4525b23a9e83c22deae9d2b7c4892c4ae5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-025/ses-05/eeg/sub-025_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "ea18bbcd7f08b702a3d3e0d6d65cf6677cf6e8e5f3b36b7ae894735d99399536",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-025/ses-06/eeg/sub-025_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "5bcef33865e560c0e965c9e475d3cef42d0f84c4b7c7b0b3bd787f01a636c9a7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-025/ses-07/eeg/sub-025_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "fd44f50ab4feb7c60351348fdf2cc73524f7e1e64d47e5ba89a87612ceaa4166",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "25"
+  },
+  {
+   "file": "sub-026/ses-01/eeg/sub-026_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "c5a50e8909e56dcc3eb25cd77723634c246af24ebf91219cc849405be55c1f57",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-026/ses-02/eeg/sub-026_ses-02_task-ssvep_eeg.edf",
+   "bytes": 31505012,
+   "sha256": "9725d1bfee21739cbdd346a28f9ae7c4db20c8ec8c8f7684fc4e92ce3c88509b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-026/ses-03/eeg/sub-026_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "970c90a5c932ea6d137634008e3df223380191d9c0b0e5fd6282f5c96f2fc2a2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-026/ses-04/eeg/sub-026_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "43e2c9539896bfedd6af69765d4056ebcceea368e7cd74cb599e1bcb5529a000",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-026/ses-05/eeg/sub-026_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "c2fdb788953db08e4f52ec77e6178e9b5fec2258eb3af65a2268ca660f1adad7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-026/ses-06/eeg/sub-026_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "570ba481a740180f14798dbb66e9887356f1a4c0efdd3f41d1974dea54f03081",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-026/ses-07/eeg/sub-026_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2aac510b68ea2dda7c4c3ad6c6665209849bb864789591c322675a106d53343c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "26"
+  },
+  {
+   "file": "sub-027/ses-01/eeg/sub-027_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "c5fd7aace8238c61a806174e15038d1c6ed267abe4bab193d66ac85dd96ce005",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-027/ses-02/eeg/sub-027_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "61499530f5711c1365693c73faa78d9ddaf7ce0571030a7a3fce4cbacfcaa8ad",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-027/ses-03/eeg/sub-027_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "4bc382ee5b52b6c6e5915044b32b2b018e7863943e59997674660dd26c323b65",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-027/ses-04/eeg/sub-027_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "3c722ef3d5afbecb1b7301922e39a75662a7db261d0b43c577b0d6040ba16d7a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-027/ses-05/eeg/sub-027_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "345dc3eeecac58cbac0b16c766ad716ef942362bb8f9a1caa00ce06a83952521",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-027/ses-06/eeg/sub-027_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "b5604db3e60fafc183d99794ff0325ff7573fe33cd7fd4ac6435b98bc6dd2a39",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-027/ses-07/eeg/sub-027_ses-07_task-ssvep_eeg.edf",
+   "bytes": 31505012,
+   "sha256": "320a2a14ed2582ad405314215af85de462b7e67b0237d6d2a9c06674d34adb7b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "27"
+  },
+  {
+   "file": "sub-028/ses-01/eeg/sub-028_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "fb063e25beecde53f7d3ef49dbefce1da410779fc17826138bae1d7ec1527cbe",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-028/ses-02/eeg/sub-028_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "d158523bc734004afa69878751a3fe9e7701e026fad9a0554ffbf058073dbcb1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-028/ses-03/eeg/sub-028_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "6ee37d3ab511d3d397ae8c58e21469ad16887e475002975ce22bc99b3d411482",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-028/ses-04/eeg/sub-028_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "89fd91febcbdfc4cb9d30cbe9c934718602b11ed822e3d9241fe796e605707c8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-028/ses-05/eeg/sub-028_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "d830df233321b57f67772126bc0ba4c964d206ae463a1265179298868cc0022f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-028/ses-06/eeg/sub-028_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "dd1f0fc3832f27f9df6f29e110889c22828431c58e07b193f49c5cb56d387bfd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-028/ses-07/eeg/sub-028_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "93db059bd0a32efe63d87d6d1bfb38d37f17a542a9e2b5becae0c01c1ede7022",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "28"
+  },
+  {
+   "file": "sub-029/ses-01/eeg/sub-029_ses-01_task-ssvep_eeg.edf",
+   "bytes": 37137012,
+   "sha256": "2df5ed30e8021f89539924118868cd9ff8249805adae65f9255c3ced8d682192",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-029/ses-02/eeg/sub-029_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "44eced40dfa34dcbb2e117b3d39c7374ac0b4d0c29bbe6f5e70729bafac81baf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-029/ses-03/eeg/sub-029_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "19cd82adc978e22fc34741fa8eea07fe4352ea058a6af8fb522ab0b97097fdeb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-029/ses-04/eeg/sub-029_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f3aae78db73079bdd1a89273d3b66041b3173ec0fd2bbacb3618a8e9176ca660",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-029/ses-05/eeg/sub-029_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "3793cfa7dd7e429027973e33cbe447f85e438f428ff8be7621fd4b93a30bec9c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-029/ses-06/eeg/sub-029_ses-06_task-ssvep_eeg.edf",
+   "bytes": 28433012,
+   "sha256": "ba8bec6ca256ace8af33adc2f924e40c810d7c7a8f6a53e6ff53dc9390b2b2c9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-029/ses-07/eeg/sub-029_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "7fefd6cb69bef33839179c7ac22df77aaf3e9d007f43226c0e5b45d36e2401fe",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "29"
+  },
+  {
+   "file": "sub-030/ses-01/eeg/sub-030_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "2ad0b05f88b0f1e6273e30b89ae8f9b1394c37fc02d99e8ff6052567b1de30d5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-030/ses-02/eeg/sub-030_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1954ac73979f3b6ba455135610ca6bff30215a2f14089afc5b9d8ab6b3b5e51a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-030/ses-03/eeg/sub-030_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9d329c37eea976228c1ec095abe35b94b58240c6a175ba6b2d819ba504e41c01",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-030/ses-04/eeg/sub-030_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "fc0374d2bbda0f48f1b81ad383d451de204a2a0f4efefa64bc80992aca1500a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-030/ses-05/eeg/sub-030_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "e6befd95a45883bb98ba192d215ca94cedb26fd3415199bb87e89400a177a01f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-030/ses-06/eeg/sub-030_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "3677e50d25270c06e84d915b1ac58390870efa608b74493216dde1b2cea975da",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-030/ses-07/eeg/sub-030_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "5588da97f9481985efe3ff0a3c432318addba29fb44f54f8e77454fc93cfea4b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "30"
+  },
+  {
+   "file": "sub-031/ses-01/eeg/sub-031_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f7ea387095f78365d83df703d733bc4db297637f5c39bdec1b9ecb3c04ea38e2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-031/ses-02/eeg/sub-031_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "1460c55413bd94571b0422d994cccaa112e46e884d40f7289a219f6b9c396b1b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-031/ses-03/eeg/sub-031_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "13d851d362700595f891810c98a9bf5a2f2a44c75345665ff08d35c21efd018b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-031/ses-04/eeg/sub-031_ses-04_task-ssvep_eeg.edf",
+   "bytes": 29201012,
+   "sha256": "1d2dd2b2d83e61bb3163dae9e9da1ec4518786f94c68e830a8fae504587dbe4a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-031/ses-05/eeg/sub-031_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "7026f5847cce840d8c0055d803b6f56a5c8ce5251f29a3c7680a39c0aff34004",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-031/ses-06/eeg/sub-031_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "95d13f09a70c9def1d0d9a6b883b4ef803824a7b3c3ad61f9f68218095730755",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-031/ses-07/eeg/sub-031_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6af47e1899e3d37e6c398a02dc6795099d007ac6ce65bc7f50b6266f46ef71b7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "31"
+  },
+  {
+   "file": "sub-032/ses-01/eeg/sub-032_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "f72c4868d65bf3b12aa81068d9d73a597c617260bf5469f4899cc93f4f67c951",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-032/ses-02/eeg/sub-032_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "3e1a5e12f80a8bd2b561a713258182361354489907250768d48fac2d8a00b7db",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-032/ses-03/eeg/sub-032_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "686ef191263deff4a72ca48deccc5d3ce665e1d577ec0e9db193aa57ea7b32f6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-032/ses-04/eeg/sub-032_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "1610a884141202948ab7c1983cc464c2f07e562f1ab14217960c2fc5a85d3f59",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-032/ses-05/eeg/sub-032_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "89dc7cfdb30c97ed770b90563e0f5496ecd60f93de657541666d807ad82f4a91",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-032/ses-06/eeg/sub-032_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "9173e3b882fa99642a80a9eb70a0fd3851c070d6a784da83b119368154c66ea3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-032/ses-07/eeg/sub-032_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "e8f6de745ace150cec5cce8f4a435ecac5cba20980f4a5d7ea4e061aa3745ded",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "32"
+  },
+  {
+   "file": "sub-033/ses-01/eeg/sub-033_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "5a1c27de9aa9f6cb520b8752295f0d99619d9fddf1ee1e839939dee1b01e7ac1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-033/ses-02/eeg/sub-033_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "d28cfb8bd9ca7d8cf0689df54e7b615b3fc495511ace37f6de7ce12c287b122f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-033/ses-03/eeg/sub-033_ses-03_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "fe6112e11bfac920a252fcbe9f2351d5ba218ae9a37c7b897f820742b2f3b1ea",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-033/ses-04/eeg/sub-033_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f089eea8cb70f31d2e5dc26181726ec4b6b58d3c43e3e6ca573cde7980c2b26e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-033/ses-05/eeg/sub-033_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "fc90444830d024cb6dba25da02ceceb5c33459c0191ff4465c7149bf970f564b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-033/ses-06/eeg/sub-033_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "c5df437ade6b11e99cb0a26cce4b3ed5edf48abf055686015e853c29041b580b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-033/ses-07/eeg/sub-033_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "9c304101fd2c331de2b076b46959ad154ce944424f05498fbdfb27d51c801d9e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "33"
+  },
+  {
+   "file": "sub-034/ses-01/eeg/sub-034_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7673352cd05aad8ca49a0df70b7a1e71295a8f751e4580e7c377c57b6c377cd2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-034/ses-02/eeg/sub-034_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "26e3021bd94d23941bfd83e245c46f31f32de0701ef7e540ab2f2da1fb499e34",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-034/ses-03/eeg/sub-034_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "5cdf9d46c8cc6c0d20475da7681cb0f49c7b0f387e291b7b1410e877bf535466",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-034/ses-04/eeg/sub-034_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "5688c4fcd9b71577f3e06c255c384e2b8c59b5ae9e608471f6607b558a856a23",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-034/ses-05/eeg/sub-034_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "18e13afee9b6b5401800a382906e022f565e7a8cb89b7b7b446da3ee4befd3d5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-034/ses-06/eeg/sub-034_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "8cabb04377984221ae6802ea4c894c5aa61882e534f418c884c95d7e580b3acc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-034/ses-07/eeg/sub-034_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "cd8cacba79dfa58907866724bc48f635eeccdd3b08f45cd4e6eb621f58764285",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "34"
+  },
+  {
+   "file": "sub-035/ses-01/eeg/sub-035_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "07acbc5abeee6e239d982a86ec8423a6976c92df285cc34e92651617c71d3c52",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-035/ses-02/eeg/sub-035_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "85380392780df0e36d12b1af5778ee32be6c8039871ffb9a80da28a2b74911dd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-035/ses-03/eeg/sub-035_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "09e46b8394a233a876bcbf293f5095bb2765cd3fd19021d3f26ec9f0a48cdda2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-035/ses-04/eeg/sub-035_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "7be0761cbb3d01cc8497faeec22d7beedddf6a0608765ebbe7b5ce04b7fb140a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-035/ses-05/eeg/sub-035_ses-05_task-ssvep_eeg.edf",
+   "bytes": 38929012,
+   "sha256": "cd9768124d4c696e7be83a461bb56272b690e6bcf29f63f1d242f1f47b7ad20a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-035/ses-06/eeg/sub-035_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "c30075384e2f4a55c48aad9edd86b31e12de11424601de8c6046f560f3463f48",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-035/ses-07/eeg/sub-035_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "89fa6a4d61965e209527eb5d3a1c71094780c13c0557d973e4cfb35b654fde19",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "35"
+  },
+  {
+   "file": "sub-036/ses-01/eeg/sub-036_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "c8f9a9ddde2499ab474124c3c214b388efeb2afce82e359703e12800b2a7c2d6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-036/ses-02/eeg/sub-036_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "180ceda8ddee6cc8d8a51b409c631f8036cd885bf2447a84bbeb747b5b45c6cb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-036/ses-03/eeg/sub-036_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2394a5ee1b92cd6e266304d1464f5e0e06eddc88815b97d5b54ac5e72e610fd1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-036/ses-04/eeg/sub-036_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "601329c7315fd8878879d1b0c2fb4f0c94ff21d12f13548e3b5d70edef52549e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-036/ses-05/eeg/sub-036_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "196038e77be6f6214fd7fcd3b78713800ad29e96644dc005d218cd16cdbf026f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-036/ses-06/eeg/sub-036_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "58bd9ec0c02c585fdaf447906c9051c9f0a31e1c04340701cba707a3f04c079f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-036/ses-07/eeg/sub-036_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "384a4cde1babd8e33b784fd4f528d7d9674370c35799c0d20ffbb911c0ac47d4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "36"
+  },
+  {
+   "file": "sub-037/ses-01/eeg/sub-037_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "cba31ef825a04d3044742a23339d9016e28f82d002f9338944f3dcddf931c9cc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-037/ses-02/eeg/sub-037_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "104e7a53b65e3b7e6d0e2a7824d22ce40d33e3dc6e87248661d7adb2e3a248dc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-037/ses-03/eeg/sub-037_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "40cd29d66f17788417558735967aab153a832d751bcd5dd4788ebc03a65099aa",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-037/ses-04/eeg/sub-037_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "24552579e0ecfeca10a39814e9b93b2e9a4527b99760fc453d4d5b2f99036ea0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-037/ses-05/eeg/sub-037_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "ebbda0eb93691debd318d5a8a65ce6476f25b03ce533766cea1941a0512a3fa1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-037/ses-06/eeg/sub-037_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "99e7ea1335ab40398c405db83040390869dce38d18c8ecee503475f9cd292328",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-037/ses-07/eeg/sub-037_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "bd70fc5f9ed2e29756b358adcaf0dd16f641934cbce439cf2581f07fa23c56b3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "37"
+  },
+  {
+   "file": "sub-038/ses-01/eeg/sub-038_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "c7cf1e3217b2a83bef8892fd028fcc0d199a66cabbfab02826a3ea0a89a0de9e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-038/ses-02/eeg/sub-038_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "509d62243271a568b428df5cb9690818514222496515d60b55f3cf8a29dc6740",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-038/ses-03/eeg/sub-038_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "16d3a39a211211d29e0ed2fedb32e3acfe7cf553b1eaf4ca69918a69e2184465",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-038/ses-04/eeg/sub-038_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "16ecc6884eb94c3e7b16bed72fcdee3f0f2c3243f458d1ef0a281c3584cd4c6f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-038/ses-05/eeg/sub-038_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "d96c8315dd709de83e5885be0dac964969ad13353418faf5a90ce3d2eea10b16",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-038/ses-06/eeg/sub-038_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "9cef5183fcb5cc4bc5cbb61aaa313dcd7c879fb272018dd5ec9fd6296f7e3754",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-038/ses-07/eeg/sub-038_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "de6b1530f5fa0163e4b6d9cfa53e9a15cc71a5cef637302e585190128853e2ab",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "38"
+  },
+  {
+   "file": "sub-039/ses-01/eeg/sub-039_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "d25be787eef9d1ae2278f23b25f9baa3cd8c29d285fe7a6cc8925517490dcbe9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-039/ses-02/eeg/sub-039_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "6877c31f0f94ff3e187ae588d6bb4dc26c40676485632421dcfe265dcd694251",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-039/ses-03/eeg/sub-039_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "8aafa274f88d3075df63300f7417ecd32d2ef50a95d4625c173a08c5ec574e45",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-039/ses-04/eeg/sub-039_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "45d139f43b9e497b389088003dc6428794c3a9f7b1420598519e866245af6cd3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-039/ses-05/eeg/sub-039_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "4e2d7d444a1dd8bd32697e276e113121093758854c77a8800a9dcb3f00eb724b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-039/ses-06/eeg/sub-039_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "142d645c74d84e8ee1b0222005f8be9844437226d745b743dfb0a1f7ef66578e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-039/ses-07/eeg/sub-039_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "35e8a6f671f5de8730abe0dc8093be623fa601b818cd7e1641ff7e84765396e5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "39"
+  },
+  {
+   "file": "sub-040/ses-01/eeg/sub-040_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1c8bff6780a9018307728992eab84639912468e6c4ddc920f9353e5f97e5e4b2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-040/ses-02/eeg/sub-040_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "6e86e5987f81a95e837a5b9fb1cb7cf58468159779ae699281ccefc2a0ed7a7e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-040/ses-03/eeg/sub-040_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f18ceed330e3a1ac4a5b54b60cdc2395cd42321e502e728edc919cdd8e0caa7a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-040/ses-04/eeg/sub-040_ses-04_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "671b338271f8be2b0bc237e080a307d2769f0898f194f2f0265a21dc89d7f17a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-040/ses-05/eeg/sub-040_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "0b16ffbe35b5dbfdb398fd54634b937569d9b003671131f0dc8e2011c3f734d1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-040/ses-06/eeg/sub-040_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "50e931f434f63cc4be66b1632712d9d1a8dda7b5393f59d219e265dfca94a404",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-040/ses-07/eeg/sub-040_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "c60dbe1b4d1a6efd11a3d41931350d0ea626248c91e9b7453658adf6978ffb9d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "40"
+  },
+  {
+   "file": "sub-041/ses-01/eeg/sub-041_ses-01_task-ssvep_eeg.edf",
+   "bytes": 28177012,
+   "sha256": "588f4d6c7032b61a600baf5b53f448fc924b61b0fcefde0bab3f667bca74e0c8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-041/ses-02/eeg/sub-041_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "e34ba87900cbdff2e196bc92ecab9084e52467bef0e8f8ef640828a4cdfb0e77",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-041/ses-03/eeg/sub-041_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "069cddceb5b6e2f84924846b46ecbf26b92b7d749119c5f05e95bc177269f3ef",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-041/ses-04/eeg/sub-041_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6b98af17dda277bb53abb17cbe0c7f19f113c55f805179d0ffe465e6f0833cff",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-041/ses-05/eeg/sub-041_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "52c7af5af21d206f3f08267e4bf1936ac97a58f91f2f0d35f36031fe2e5b911d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-041/ses-06/eeg/sub-041_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "ed4d65c069ecc5141bec46981f897cc5eeea6da47c66a87c1a0de03fe3608f4a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-041/ses-07/eeg/sub-041_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "4332188bf9dd096612b93fb7541825604d1faac547002329e9977c13c2ed223c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "41"
+  },
+  {
+   "file": "sub-042/ses-01/eeg/sub-042_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "72f162afafea2eb84e0da1cdbd8e5983ff22cca8c6a6463533af96433eebe9a5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-042/ses-02/eeg/sub-042_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f5a1d0066d5e237d19a0e984f0e2e88b10e90169aa4b6f81ecbfadfc406c35a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-042/ses-03/eeg/sub-042_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "aee03f125685ebdf4564242104b2aa29792ba3d6933bf98a12ab77be34ca466f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-042/ses-04/eeg/sub-042_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "57f71283b7bd29fe78f0e4472a016fb068052e9880db7354c19036dfd125c1f0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-042/ses-05/eeg/sub-042_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "dba107aad702ab99a04dbb3a044827a762e60c118f47332e5ed8e71a1319510e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-042/ses-06/eeg/sub-042_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "adc92ee117bde4358086976ec722a2477e4cf51328f5efa09a649f86acaa0e30",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-042/ses-07/eeg/sub-042_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "fd0d8624f0fad47abc463b0315ed01853c208e4fe1667636430bc3840062958f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "42"
+  },
+  {
+   "file": "sub-043/ses-01/eeg/sub-043_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "59fdc5cbca43c2543cedd7587bfd257d60b69fbb14c5c6b3478c035ce6d39abe",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-043/ses-02/eeg/sub-043_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "7621535b5deb4fa31276f913999836529aae66475d1ab7500dadcea8e232ec01",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-043/ses-03/eeg/sub-043_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "c7748e09f24ad9e73de17193cf1d64e0c5f86a7f83447bd704a13c81d6acd246",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-043/ses-04/eeg/sub-043_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "811ce62738ee013abc894152e31009314de431f7b86a96a525aaff547e1b8b35",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-043/ses-05/eeg/sub-043_ses-05_task-ssvep_eeg.edf",
+   "bytes": 42257012,
+   "sha256": "7d0956163fcd6d44c16e287701419be3d4194bb1e60f48b19afc3f79e4ae7c29",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-043/ses-06/eeg/sub-043_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "7abebf36f471e1f8f62700247720a7f34ed9e8cf22b385b8c8cb9373323909af",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-043/ses-07/eeg/sub-043_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "4368026a2d3298c2f0a47150d7477fb4e767baba9cdd11bcb590ac482da1b234",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "43"
+  },
+  {
+   "file": "sub-044/ses-01/eeg/sub-044_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "504caf1666dfd05c0fc733958886539cc7a7b57f5a3ab628430b50e4a8e5112c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-044/ses-02/eeg/sub-044_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "ee81d372822ee075098591824885c458977d7ab15f6263135228e4a2d9d397b7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-044/ses-03/eeg/sub-044_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "fd9dbed2b436cc0de8de2592905937581b8656aba9eb0551f5da5508edb30a67",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-044/ses-04/eeg/sub-044_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "5d01f09da6f72ad16b7a4326f0c71810345e1aad0fac3ed63f3e635ee6106f6c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-044/ses-05/eeg/sub-044_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "505da80206b0a4ef88296fa23c09b04dd554117e5f9232522bfc736949809690",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-044/ses-06/eeg/sub-044_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "753223398782afc007359a3abad2aee11241f6a7d42df0cac092139835b2ccfc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-044/ses-07/eeg/sub-044_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "bb4c47e6569f2b96b35af2b4f36fd635ea03a8e8b3c9f221b5f848f975e7c715",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "44"
+  },
+  {
+   "file": "sub-045/ses-01/eeg/sub-045_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "8239a015c91a76c37bc6044d9e80b85580c92ae5272fd59f3750cbda3686d667",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-045/ses-02/eeg/sub-045_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "9943005cfb6fb49f9e2a6f4c85a17758de98348e41a300bfc07726311f37a92d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-045/ses-03/eeg/sub-045_ses-03_task-ssvep_eeg.edf",
+   "bytes": 32529012,
+   "sha256": "4d1c2ee04d05d849bfc53e155e8c4db21b9c207a0ad3ee307b4dfa02ccdd15d7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-045/ses-04/eeg/sub-045_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "e6db3cce73255de50f21b2609cf887896f8137538bf1887e39e7ed47ac0488ad",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-045/ses-05/eeg/sub-045_ses-05_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "fd76e9209bf20aff6adb3aeae116197102e8d2ea42e3fd872088d8fe2d2aef5b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-045/ses-06/eeg/sub-045_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "d02e33c1f217f83eb89b5f401566bb1c576bac5dc62aa78007b1061d5be21010",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-045/ses-07/eeg/sub-045_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "d4454433895c5cd8c467330cedc1ee032f567cbdf2471f3ec34f2a6690f0a895",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "45"
+  },
+  {
+   "file": "sub-046/ses-01/eeg/sub-046_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "5bf6c1fb9d21d52ca9c2aa9d48df066ea7bf808d2d525b1d126d01ad2663d189",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-046/ses-02/eeg/sub-046_ses-02_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "b655b5b7833ea2690921e615467257d2995be69c36817ad69fb20ec201dc44ee",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-046/ses-03/eeg/sub-046_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "e0eadeb1554b96f616f3fe5bde00266d9d5297efa0fc6760fc0c313bcceb22e3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-046/ses-04/eeg/sub-046_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "d5466dd47c37c0d6bcc181d54f8daccdb506abb36ae97062310aa917dbaf0611",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-046/ses-05/eeg/sub-046_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "9f66485bf4b04d0ead05696a92759e7a0f3b9e927155ebb0f5de7c5255b350ae",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-046/ses-06/eeg/sub-046_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "52f055ec0ec6827027f33a3bfbe3b24fdef63d7e535901eff7a73b3aa5937324",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-046/ses-07/eeg/sub-046_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "ca1844270b4d8ea17d954b4d0fece6ef32d533cf6ca9f4e11e7b95f75e7efafd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "46"
+  },
+  {
+   "file": "sub-047/ses-01/eeg/sub-047_ses-01_task-ssvep_eeg.edf",
+   "bytes": 28177012,
+   "sha256": "da369e382c6268ce8bcd7a265d4c96f822c2724ccdfb6e66a4e20c8d2fa92ce7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-047/ses-02/eeg/sub-047_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "da703984f1b09fc5ff22fffddf5872ac53610fba7b4dcc93ccd837232c11fb6d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-047/ses-03/eeg/sub-047_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "3a6fcb712e95ffeb96c31a43ce8e692993b33ab57fe923ab4bb34d4a49636b5d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-047/ses-04/eeg/sub-047_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "64768af0c436dbcf589623728dcec5834f9b392a4fd2cebe32dd337d560b528b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-047/ses-05/eeg/sub-047_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "156fc3bfbdc031b7cae5175a6a313db834b2b73b25262f12813c4725e1827a22",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-047/ses-06/eeg/sub-047_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "c8341ee472d34a23f83c63cf88c979ad93a917352efd3391c149214df0f74722",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-047/ses-07/eeg/sub-047_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "790c9b52c71680963b1f7dbdfd8d3219edfe5ac541042a03947d7e5720abdd3f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "47"
+  },
+  {
+   "file": "sub-048/ses-01/eeg/sub-048_ses-01_task-ssvep_eeg.edf",
+   "bytes": 32017012,
+   "sha256": "8341cc32d397fd12a2ecd0218937454f5ea025eb9e1d6a425f8aa1ca9a52c839",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-048/ses-02/eeg/sub-048_ses-02_task-ssvep_eeg.edf",
+   "bytes": 30993012,
+   "sha256": "1bb1dc88db1ff4dedcb6df191da93a731c742d6b277aef5dd7f9eb88b9ced819",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-048/ses-03/eeg/sub-048_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "8885387a38c6448da86b08f08a971ab41dad49e6b74ead7ae1c13456543a9787",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-048/ses-04/eeg/sub-048_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "18596d9c3ec579da4d97b9395f18a33e0f8d270641cbda03fc609bd4ed27e6f1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-048/ses-05/eeg/sub-048_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "1bb954dcfdd1726322a8b2546fd9cad27baf2a713d75705218f6306370cc7a6c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-048/ses-06/eeg/sub-048_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "67de6debb35d61d7695e9871fa2d122c43a63532dd8e9e33497292aa6242315a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-048/ses-07/eeg/sub-048_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "2983b063a6d853d9fb388cd5be54a951ff5c6dd64ad56abaf2b13f8d034d9faa",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "48"
+  },
+  {
+   "file": "sub-049/ses-01/eeg/sub-049_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "e5b0eca93890598f05bf7a1ea7a1829de9e6251f2cb16ec8ee1ad563337164ef",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-049/ses-02/eeg/sub-049_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f240afc066dc8f87e687d76c67d777390029d7f180cd50848ac51eec89f02c9d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-049/ses-03/eeg/sub-049_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "acf27f3d796ec1a496077e8ebe3bcd5adfa2cebfbbffde08b056caccb3096f9a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-049/ses-04/eeg/sub-049_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "d279090d37fa019cb4c21d9cc05a15c94d1b3b32e6bbfd3ccbbf3a828193a3f2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-049/ses-05/eeg/sub-049_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "0f00fb67e20c535144f81e6039d442c81f18f019b4e281d4f2c1c517511dbbd5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-049/ses-06/eeg/sub-049_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "e634acd851b539cef0b4399a7f8e8eda7d32b07388b2d3ed46a926f01842e4bc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-049/ses-07/eeg/sub-049_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "30a6e698c5555681ce90ff7a2ad443329cfe5a81de4524a46f823d81483e867e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "49"
+  },
+  {
+   "file": "sub-050/ses-01/eeg/sub-050_ses-01_task-ssvep_eeg.edf",
+   "bytes": 30481012,
+   "sha256": "83fab1bca4e3f95b5119d1451545582524122b7345472573654855406e3a7d55",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-050/ses-02/eeg/sub-050_ses-02_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "9f792c9eba4ec94913fc691880bfbf35cc3dfba3788e9dfe007899a68251d6dd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-050/ses-03/eeg/sub-050_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "b0911a632596d24027222a4a0e6d1415c13efce24cb740a3876d083a33a93874",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-050/ses-04/eeg/sub-050_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "cc144146d7aee637dfad4f2ab987511e481e1cad38e5d78eb08797c229128c14",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-050/ses-05/eeg/sub-050_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "8ab4299cc912c4757989aabc925c64193d7276ce6b8eaaca08cac9ad1d1f5789",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-050/ses-06/eeg/sub-050_ses-06_task-ssvep_eeg.edf",
+   "bytes": 29969012,
+   "sha256": "06dd3b4b509b1cde5c921aa547666f418d24c67e9768c47d64f89c80d636751c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-050/ses-07/eeg/sub-050_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "16720b6ced1bd6be2b414b6b4cc4cbc68f98f4e71bbf3c60d2af3cba86499de5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "50"
+  },
+  {
+   "file": "sub-051/ses-01/eeg/sub-051_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "ce2d8316a999a6b516a8a184f70b8d6e4cb0eee534c80b8f3ac3da7998f952a6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-051/ses-02/eeg/sub-051_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "2a819ed0d39aedee90388913caf51c508d6663a5beadb4bff596539158ad02b3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-051/ses-03/eeg/sub-051_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "a69f7d994d9f5a50fd1e97cdc7c789dabd1821171b17cc31b58819190b003a43",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-051/ses-04/eeg/sub-051_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "cc6822d8acc299a558041eb83325fb3eeab45103ea467a2901745be4686c3d2a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-051/ses-05/eeg/sub-051_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "66497ef97ef62ca7e0c9c4a6d2963ca5f512606c5ddda82a186a33d87c62862a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-051/ses-06/eeg/sub-051_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7597aa1e5240abd003e4623f3c3ee8f2adc5af5dd2d432701df3e08f4a724021",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-051/ses-07/eeg/sub-051_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "a209e7482c121dc34bbc6a3a52321771467455090492f2032ead162478debd0e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "51"
+  },
+  {
+   "file": "sub-052/ses-01/eeg/sub-052_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9988ff5e114b57c620c0bf0aae94d55d1cf775d7319d85e75f4539e0b9d511f7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-052/ses-02/eeg/sub-052_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25105012,
+   "sha256": "b64ec47b3eec96a38fb9cfd76ae1f0173532e969cf970aa263082f7d976c5f5a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-052/ses-03/eeg/sub-052_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "16d92423ec231c2fb3469ba14b8a647307199703c66a26dbbae0921da5938946",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-052/ses-04/eeg/sub-052_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "c151a79dd6750e6d045b3a2a0d246e725c43308af2101c986efdfd51aecf7b2f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-052/ses-05/eeg/sub-052_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "84bf0d5b25739ad26c313ca60722824da3365a751eaa3ecabfedf20d88f061a9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-052/ses-06/eeg/sub-052_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "55c46408b85b2a011ec9c003218bce4ea9fe3192489707aad8975acd7ec1316a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-052/ses-07/eeg/sub-052_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "26d6109ffc7671416a5ad022a5f85b02a1faaf6765efc060749dab4050f81928",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "52"
+  },
+  {
+   "file": "sub-053/ses-01/eeg/sub-053_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "c3b41c87b3c7c6bdcf946752401c2afd23123580ed74f703599c4b17380c53c1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-053/ses-02/eeg/sub-053_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "727748ca9d5b55e660a5cc0285b90a31bd69d837667b072ed6a5363db5b2f91c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-053/ses-03/eeg/sub-053_ses-03_task-ssvep_eeg.edf",
+   "bytes": 30481012,
+   "sha256": "188a629a10fdd66f9905ce92ff7fa18df4639327d8347b92c849f840ed7e60ee",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-053/ses-04/eeg/sub-053_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "06cced618e96883e5d3b993adcae2c791e586c30fff4bd304cadf017fad33720",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-053/ses-05/eeg/sub-053_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "68211486c87b97fe86e0960a59ce085d563ee301574d401b4d329c6d452bc1bf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-053/ses-06/eeg/sub-053_ses-06_task-ssvep_eeg.edf",
+   "bytes": 39185012,
+   "sha256": "7330b5acb72e797857bb2e3f94be2eb3462085774533b8ff594d4c90188a190a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-053/ses-07/eeg/sub-053_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "ea0db8ef639e215f56d4c7953789b4c5fb67279a6958509c927ff4b78067f7db",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "53"
+  },
+  {
+   "file": "sub-054/ses-01/eeg/sub-054_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "6941c84f6e4aee1aea480951ad12b39b035d5ea651c0b7cfa5b036b01132c67d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-054/ses-02/eeg/sub-054_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "8e10f6ed0ff4486ca32588a9996ba57dbeab6241a5a5f332d0777f498abed00c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-054/ses-03/eeg/sub-054_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "71c14c84ff26ea60f8ada9c7780795d96e346d7d7f8d74889123c562aab1f21d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-054/ses-04/eeg/sub-054_ses-04_task-ssvep_eeg.edf",
+   "bytes": 28689012,
+   "sha256": "9018f0693e2438534f3be3be50131ea47f3673b0e867b217c6d4c14564d6c1b1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-054/ses-05/eeg/sub-054_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "f919cf91273692b27daf37dbe5f45a160de5301244d50274b02d5a39413e6aae",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-054/ses-06/eeg/sub-054_ses-06_task-ssvep_eeg.edf",
+   "bytes": 28433012,
+   "sha256": "99b9ffd4886ff2d8e94d6c21e286f0a4247f9c79b0ef62164d12364a601ea396",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-054/ses-07/eeg/sub-054_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "f333196cfac7979f70e744e31159ae33e40cec700cda26463d487da669339dac",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "54"
+  },
+  {
+   "file": "sub-055/ses-01/eeg/sub-055_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "a5a4c983ae79a3853861a890b52a3f8ab17b345a6e9d5e96a9f6ef64c2380b0f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-055/ses-02/eeg/sub-055_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "6d0d538c501e769de80d8b798a35c21124204b582da03d09d23e76b9031393ae",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-055/ses-03/eeg/sub-055_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "9ffc54b18b9445d8252ef6bb07ac41c822b03f478a4dc017aba8843308ceebe0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-055/ses-04/eeg/sub-055_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "589158ee42451e3ce19087b8f0e1586116fdec39c9e31a7c02aabe6d01c50dc4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-055/ses-05/eeg/sub-055_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "68d3c6347dece4fb453d78ea7a068efc10c4d9067f98d53a78395c885b13261e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-055/ses-06/eeg/sub-055_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f6d8bed2b125b48392bdb5799216bfacfef58509219624698d608de9f21cee9e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-055/ses-07/eeg/sub-055_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "1d9a8ff40fe51a297619ffe23668e7a29eeff8a3f7da0045dc6b52af7a7b9d7b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "55"
+  },
+  {
+   "file": "sub-056/ses-01/eeg/sub-056_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "541afd1f1de5349d7555f6dbceeb9ba7446b84cc69dbdc3bf59af618e7c4c462",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-056/ses-02/eeg/sub-056_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2af2734e9613a8b10bc42bac0a5e883d9523919efe799d9ccce582b0f10868da",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-056/ses-03/eeg/sub-056_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "2b246f575e7a0defefe626495ab676e5785ca300b9bc341b2e311917eed923ec",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-056/ses-04/eeg/sub-056_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "ae73e20d1781fcf24c8d13ad84656226a5bd238b59e40637f494042ff80dbf3f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-056/ses-05/eeg/sub-056_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2ea08b8a0a0549e659ccfa5f0fcd561e776a3965594389b31fa26b2b83d9acb5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-056/ses-06/eeg/sub-056_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "07de00379019b6d597252ea0a8ff1d119a30e2fd446ce25f1ef949e425e6d6df",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-056/ses-07/eeg/sub-056_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "d37edcba04d8434e1f42f1181e8700f0840ac58ee73a26ef4acdcd5e768d2dcd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "56"
+  },
+  {
+   "file": "sub-057/ses-01/eeg/sub-057_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "6ee0efd7c19d1057d3707b8c832703f36223601742274c4b85b65f86d0809f96",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-057/ses-02/eeg/sub-057_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "035315293137e3d241b47bedbf654f6b51194e721c1e30453e391ab7a6c92f8b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-057/ses-03/eeg/sub-057_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "5b5770b7ee2b098168fe43a102cca11b4496258d90eb3ae79ed587d0172c7cab",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-057/ses-04/eeg/sub-057_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6919a9bf1161fbdf07c8953c422037aad4b60d577ba4e76557a4c9f4595fe707",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-057/ses-05/eeg/sub-057_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "9bf657bcb381d69a5f0799cf3156eb34afb6d158f0fdf971c9ef461094fd54da",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-057/ses-06/eeg/sub-057_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "92d3f2baf85bcebce1fd9f846bfcdd2caacaffd4d12a62b2bd484b543996a816",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-057/ses-07/eeg/sub-057_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "87b378f5982843975075567e1c8322d48abe0c5497f7076d15bb3796c59de8b9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "57"
+  },
+  {
+   "file": "sub-058/ses-01/eeg/sub-058_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1cf250c4abf32aaf7a0f07e6b74d9067bdd36617c78221ff81c04aefbba8e90f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-058/ses-02/eeg/sub-058_ses-02_task-ssvep_eeg.edf",
+   "bytes": 43025012,
+   "sha256": "1a46b4ca6ed509e835e145a6f1db0c81bb7c7cf25ef9ca7cd38996f3c554c185",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-058/ses-03/eeg/sub-058_ses-03_task-ssvep_eeg.edf",
+   "bytes": 33553012,
+   "sha256": "fb44e481f8c7ec5313f2129ff143b69cd0422799bc53df51c935ceca29aa92fc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-058/ses-04/eeg/sub-058_ses-04_task-ssvep_eeg.edf",
+   "bytes": 71697012,
+   "sha256": "07c64abdfdadbf2f9367037ebc3bf235c05164c885625f149470d69a09331573",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-058/ses-05/eeg/sub-058_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "4b8aeb832a40da5fa1c065c85f704b2cf18fd34a21eae420b5c76271b11dda6a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-058/ses-06/eeg/sub-058_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "e71488e46aa087901821f763a82e9017e99a46ba42db163d6c91b9dfda7e277c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-058/ses-07/eeg/sub-058_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "cb9009d556abe703cc2757b99b7397bb19baec98aa463b373a8bfe7215646801",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "58"
+  },
+  {
+   "file": "sub-059/ses-01/eeg/sub-059_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "145b923cfac7eaf56727ad4daf8cc5be20f078479a9b356c5ff7fa216cd9f247",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-059/ses-02/eeg/sub-059_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "fd0c21be8d65cb58e783855e290fd912d1d71c42b5d5452d054c62c8b22dd809",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-059/ses-03/eeg/sub-059_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "9e62ad5d96ee721ecdd5fe149ecdcc147addd728bcd72cdc2fb4011d695c61a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-059/ses-04/eeg/sub-059_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "c29bc50226755d09cca52fc498eb0b5931dec69ebe2a6d31e717e774b50317c5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-059/ses-05/eeg/sub-059_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "abd83898a767336d762e0b514c203ff64a51244aaffbd7e071334304ea599d4c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-059/ses-06/eeg/sub-059_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "0e0d8e9499d6c4bbf71ca950632f0dd325842b4d5e4e3c9aa2d87ed8e4370c6e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-059/ses-07/eeg/sub-059_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "c145c911787fa73af10f242e6fa5f36f97bfb4b95b7f0a297bd7bcc1958593da",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "59"
+  },
+  {
+   "file": "sub-060/ses-01/eeg/sub-060_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "2ebb6f210beb5a0c4935bc5f052458f949ac3b3fe7f83a7b094cde1b7915a704",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-060/ses-02/eeg/sub-060_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "236bc3604ebe85d8348488b1c74e72dec0b9881f0c9701cf6ad34774c397dfb5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-060/ses-03/eeg/sub-060_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "55e223a2acf59d92b3a202ebb692626632f4a8bb20ff4e4fd796b8ce7fc13787",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-060/ses-04/eeg/sub-060_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "99f08a5c73f069a5ca7ff5925b384e2dc22d64f8a804621941ecf5d44fcc4294",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-060/ses-05/eeg/sub-060_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "0c4dd43cc1a2430333bf2f9cc402c0f107f07227124390211e3d6960c211a812",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-060/ses-06/eeg/sub-060_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "37579a385314fad783061f4716bb243f22dd4ea5867baf85294b93c660243aef",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-060/ses-07/eeg/sub-060_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "2f9ae7e815be2b0db14a056e87b2ee183b1ff0fb72ec8ac1a72df73b10ea7356",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "60"
+  },
+  {
+   "file": "sub-061/ses-01/eeg/sub-061_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "be68133a62b11702017c85f6c37c067b108fa638b83292ed5568461a58d8094b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-061/ses-02/eeg/sub-061_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "daee2f97c630bc56701cc15ad46ec38de38867a03baac2d016649b3e642da2c8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-061/ses-03/eeg/sub-061_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "c9c03be295c2aeb1ca7be7b0f41c5d87f5266c6b416b126083ae89867ba71e06",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-061/ses-04/eeg/sub-061_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "b1cdb7d4cb4cdedc8e4749e1eecb4b8f16a8762cb151a22ad44ae70d1a2b72c4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-061/ses-05/eeg/sub-061_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "c7440629952fbb11e37d6084aaff6fe49d50f11281c96ff3578b5bb3349fc474",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-061/ses-06/eeg/sub-061_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "775193dd4694616ab7fe679787bbf37ec7b607b4e40f7ce3b6775e8304bd48e7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-061/ses-07/eeg/sub-061_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "7df3e7b866f91666ed56ba8f64d99eed6d58f06f59d11d8bbf2b59b0005374a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "61"
+  },
+  {
+   "file": "sub-062/ses-01/eeg/sub-062_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "3f6ea6e7e4ef44c8033d2bc64563015eb95dfd057b7977849906d9db27eb29ff",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-062/ses-02/eeg/sub-062_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "262652d9b6a9e7680809a96532a6a92f1acb79f3104bb3b8295b1c3502ce0708",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-062/ses-03/eeg/sub-062_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "a8a2cecf7627a14fb8d578879fe318abe3ebef74b0565787a289629ec4e7d1a5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-062/ses-04/eeg/sub-062_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "88e68626a20a5909730fdf803088a350e54592802cc3617d6407f841c3d6e2d3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-062/ses-05/eeg/sub-062_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "9dafe3e9b4dee65be53cf2e19874d8db1b93390c36a8006b30116f018e8feb27",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-062/ses-06/eeg/sub-062_ses-06_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "8d5d30a4cb67aa4f60f955e670a11eb035efde3a764463b916286de7c00662b4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-062/ses-07/eeg/sub-062_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "2226b416f3d4578b0bb9fac482e6414b3b79abbf438c003ff44ca53379638eca",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "62"
+  },
+  {
+   "file": "sub-063/ses-01/eeg/sub-063_ses-01_task-ssvep_eeg.edf",
+   "bytes": 30993012,
+   "sha256": "3a5b0d6e533fe6d79a19d92ef807b6bbcd9e2c4058d069e24900487853f1508f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-063/ses-02/eeg/sub-063_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "257c17abcc7b749662dd033c79bb9cd878322fa0acaf155e5de197c8c9397cf4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-063/ses-03/eeg/sub-063_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "8540f540d6f35031ed436dd242301e9f5653a9ea793d7fbba660c8fa7dfdca18",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-063/ses-04/eeg/sub-063_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "2f70f8869932696711c62c615e02897c371c2599d6a773e3f431c1a1f0537705",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-063/ses-05/eeg/sub-063_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "3998e68595546fb9dcadb0ee9e3f30210121918976f1db986a9e7022d85174e3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-063/ses-06/eeg/sub-063_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "e471b4709d7a5099cb8a6c80fa06afda2e7667b31b3503d8889d69c84d0cdf7f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-063/ses-07/eeg/sub-063_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "262920601475757c41d0002b0f6414d35cf93224b4743746bba06605a579c5f2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "63"
+  },
+  {
+   "file": "sub-064/ses-01/eeg/sub-064_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "7014803ef02b1224a63cec4e615e937288e5aafe5e1adc0e1469280153737d87",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-064/ses-02/eeg/sub-064_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "bb082fefa87b7d5a762b7fac3a69f71a81b81cb494de498cbede473d1c27883e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-064/ses-03/eeg/sub-064_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "b1687a9d9a164ddaa4e2b7a7d13ec1cedaa42dd7a0ffe9143abe7dad8f8aa3a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-064/ses-04/eeg/sub-064_ses-04_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "eeaee03a84849b7469d0d4e56c1396fd7e9dd3fcffd6db0c604e671aebe1404d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-064/ses-05/eeg/sub-064_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "007375d8d01810a383bc3167a114983f10e72ff9eaea33e09672d0ac1cee1245",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-064/ses-06/eeg/sub-064_ses-06_task-ssvep_eeg.edf",
+   "bytes": 29201012,
+   "sha256": "5f765c525f93c7b5cbb2f007e036bb15e0c942be5a7d435c3fe3685e15e304c6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-064/ses-07/eeg/sub-064_ses-07_task-ssvep_eeg.edf",
+   "bytes": 33041012,
+   "sha256": "f61f673382733f930b4e8b686ca03d5a4a482968768b8bb75a79fc1d8fe17f11",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "64"
+  },
+  {
+   "file": "sub-065/ses-01/eeg/sub-065_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "a8e38d5ab56ad46f218c7d0dfaf83b44ead2f49ab0a187ad8cc55489eeabd034",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-065/ses-02/eeg/sub-065_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "d301b9e914dff875f4efaf32387acb6dbb7937a4d79055b784d3662ea826b5fb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-065/ses-03/eeg/sub-065_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "70396c7c3d7bf74e4fd0efbf4a0fdf19e5991d94dda2de445279a82fdbee5169",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-065/ses-04/eeg/sub-065_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "992b29ebc53519d41d6e902f688e3c5090b910643eddea1aae7f0aac19ae5bce",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-065/ses-05/eeg/sub-065_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "975830a59c47e8f5ebef95ceb5ea4a184dadd505840ad70982c50ef5febe21dc",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-065/ses-06/eeg/sub-065_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "5548a7156bde933d1505e1cbaa139903d44ef6cc73b1b5b8bd5620eac109fdc2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-065/ses-07/eeg/sub-065_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "ff85c8d5148a1189a610dd34011590ac48d64eca904d6a7f884904df09f44c0f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "65"
+  },
+  {
+   "file": "sub-066/ses-01/eeg/sub-066_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "fb4f58ee81b54c07332ce4d756c17e27d2541f0c32a7da790d3a196e4c34bd85",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-066/ses-02/eeg/sub-066_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "4d2706b2b14490c260073fb17fc82b9fb79f95d87aae03350c97d276f6a76d9f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-066/ses-03/eeg/sub-066_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "787dd1842c01998579cb3d87cd3df4edada35683b7e0708d271b9bd16e59eeaf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-066/ses-04/eeg/sub-066_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "3748ab6f2b1a763b82a8ea83bfe836f9205e37e29c77ab8469207358b685b784",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-066/ses-05/eeg/sub-066_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "33bc4d537220e438fdd4555d51b124c38f1d66a51163a6864595276ec53edb44",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-066/ses-06/eeg/sub-066_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9f2d29d4bb1f6a0b0f6d140f893a74b261b046896d886d148fb0c90f8561cced",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-066/ses-07/eeg/sub-066_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "b59740fd1c5350a3fb5a7fa6d1441338042f6e121dcd1cd903225cc835f794e3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "66"
+  },
+  {
+   "file": "sub-067/ses-01/eeg/sub-067_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "ae67c9f93c736f273dd639bdc8fa55096a1f82deed0458266508514c16a3c1f0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-067/ses-02/eeg/sub-067_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "3cf09363594d21f528576a3cd8eacc24d51463e82b890d002c54763cbc40bd31",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-067/ses-03/eeg/sub-067_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "1fda6c9595899772bade8a94f3c7cd60d3dec7b70fc353b64c950ae7f292a324",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-067/ses-04/eeg/sub-067_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "2c54b87cd82e5ec49adf8c17d76ca1d05f16407430c5026c9ee110c06db0a8eb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-067/ses-05/eeg/sub-067_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "7e18294582eccb2cb9505730b3099a3be846d09dcc8734124af87741265f55e7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-067/ses-06/eeg/sub-067_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "25c0f4bdc3a88660bf4c7cb1bccace8a00cc85bef6453f5634cc2268d2a1662c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-067/ses-07/eeg/sub-067_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "3b80d09995dfa9eaaf4d924fa7747a4397c2f721ea3d649b7724def70ba9456f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "67"
+  },
+  {
+   "file": "sub-068/ses-01/eeg/sub-068_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "c7363853601d09ff68bec8a8e29bfeee7d5f09fac6fff0ccc9039d340e2f97a3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-068/ses-02/eeg/sub-068_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "a63a7ab3896a969b59d2cabadd67246b92e2c8f28bf8cbad0d92dabd0011c828",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-068/ses-03/eeg/sub-068_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "b067c91cdae2ed052f8e930b90611de9c8673de61148a48c62ac3a4c3c619707",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-068/ses-04/eeg/sub-068_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "f9007f2916cf3b36c82654361b26300e3822832c4a59543411a6d0a9874e0976",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-068/ses-05/eeg/sub-068_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "4ae917c79a4fb4f776ec03622efd7537366f38051a214739c8ecad28e4fe0e4c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-068/ses-06/eeg/sub-068_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "61493107821ab0f36ae6d700481bee7b0a75862daa62ac30e62f7b9b1d2cc203",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-068/ses-07/eeg/sub-068_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "ac0468f33f7c448062a064ab52a66c6bf05a9aa085dd1acf57cb5845ce1e6fea",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "68"
+  },
+  {
+   "file": "sub-069/ses-01/eeg/sub-069_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "6f5a67fcbae9ce0c23583f6e192fe59f755881c97e23850fd997743fca2fe7b1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-069/ses-02/eeg/sub-069_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "4e7321a7440273625f6b4b0da752156a27c943ea747695d8325ed42a9a60f6c1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-069/ses-03/eeg/sub-069_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "3408c43c9f9e6fc43f16f181192d0712bf22bedbb5f71030fe6ad02f543bf6de",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-069/ses-04/eeg/sub-069_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "6a5a757bc644052b39dcee1f88067f500b57393fdc2c28ef92ca87ea7ed957ef",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-069/ses-05/eeg/sub-069_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "afac2d2a9bb8fb4139f0ca2277ca991adeee4b040bde20c083b4ec85ac1cbd17",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-069/ses-06/eeg/sub-069_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "dad714746c6e6613c7b51e61e3e2892438739caf0157ec75a325aa8fb91eb995",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-069/ses-07/eeg/sub-069_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7a894373937a1a0f1988cbbd04d6db14fe828d409813f7c1aaa461b05b035bfd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "69"
+  },
+  {
+   "file": "sub-070/ses-01/eeg/sub-070_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "f234a50a3cd6beaed3dcf4ec806862e9a2de0ddac5a3548f46444b01d927b8b5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-070/ses-02/eeg/sub-070_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "b15f0e3c684e0be3177f84f475fdadb8e3a611a1c2491488052d6159b19cfe29",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-070/ses-03/eeg/sub-070_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "d34c8d4402e8f980b2ae35e4e287a9517a18c58069acaa203681c4842d9b8d60",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-070/ses-04/eeg/sub-070_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "f707572a5e18360e613585992bffc263c76582aff046499a24c2bf5bb071923d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-070/ses-05/eeg/sub-070_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "80f263f33a9d9145eb64b1e8b676bdf89b06ea6b0b605ee45e14f4abc2ceda82",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-070/ses-06/eeg/sub-070_ses-06_task-ssvep_eeg.edf",
+   "bytes": 28433012,
+   "sha256": "ccc7f8e74ea7fc5560153c8642fea0d4d1ee99482dd8fc15db3d6089f263aaaf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-070/ses-07/eeg/sub-070_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "dba363a827f4ef7c4456374668dcb7069e70faf47f5d7d12e1759ae921119873",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "70"
+  },
+  {
+   "file": "sub-071/ses-01/eeg/sub-071_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "68c30c32509b6f08bd8a3d72f5237f01e5e0b3bca35e364a340632c462a04709",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-071/ses-02/eeg/sub-071_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1ecce56b25eac5c786c4f1341b4f273d4cacaa2f4268e5d0124afd839b1497e1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-071/ses-03/eeg/sub-071_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "c04f581e940c15c0eecc7bc5523965d27a57c6eba2b60230b175545b71b8dd98",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-071/ses-04/eeg/sub-071_ses-04_task-ssvep_eeg.edf",
+   "bytes": 28945012,
+   "sha256": "51c994ab71692bc0a7d91a1b7ae3911418e9da92e71e316520deff40636989c6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-071/ses-05/eeg/sub-071_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "e4be40cfaa76286bab145e9af7db06c41a7733f6b122c4aa282034be821ea7ba",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-071/ses-06/eeg/sub-071_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "7051bda94cce2a3e1f0410c3ca8ea29d4c571dfb0f4cfd40403a90b53e8af103",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-071/ses-07/eeg/sub-071_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "673c410f390f84f9c90936404800741e05ab4b9b971366461b646f256b1896d1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "71"
+  },
+  {
+   "file": "sub-072/ses-01/eeg/sub-072_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "de06f8e973c44b5596070333363c5a0ae5df933ae938fe9f5b9f75db627b63ee",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-072/ses-02/eeg/sub-072_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "c7b77074c1332faa9a0cebf0fb16a236938af015a17ef3ed781c9187df4b8800",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-072/ses-03/eeg/sub-072_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "a4450d1180ecf5e20eff7d184fc8beb235c61967da4f5034d6953a0c2a07084c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-072/ses-04/eeg/sub-072_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "b35b8cfc4b0580f9245e3eea5bf50438ca001cbd35602e42d8f98056226474db",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-072/ses-05/eeg/sub-072_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "f88a211f42aa69d7bc52c23f2b0d2257dfe4b456d9d628fb516d09d414436c53",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-072/ses-06/eeg/sub-072_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "d276eacc6c124b5e5b3ed7794db23b6a7fa6e9d48a4a9c16b0c2c11fa8036ce1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-072/ses-07/eeg/sub-072_ses-07_task-ssvep_eeg.edf",
+   "bytes": 33041012,
+   "sha256": "68db378a090e617939c82d997944f0ce024cd21036b1d33d9d3540d621ccc200",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "72"
+  },
+  {
+   "file": "sub-073/ses-01/eeg/sub-073_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "e4389e8c63216e30e062913eab90461de92aaac2442823df5aa9a3f6f4e8247e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-073/ses-02/eeg/sub-073_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "64efc91cc2451e5e8da75d99ec1be87943ba007366d17fe90a2d2825577ce868",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-073/ses-03/eeg/sub-073_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "8332ccc927b1076d281008a7ab6ac6de950bb6710cd1b6411ca357a91def6b5e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-073/ses-04/eeg/sub-073_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "55db7e8c51e764cd32229dd44671e1c3584d2082ba44044dbf44517d024c9dc9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-073/ses-05/eeg/sub-073_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "6ebd75037eeb04c0a72a6fb65b05f1f6734552dd24817c293aeacfa8cf7cdd95",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-073/ses-06/eeg/sub-073_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "479966344f899eda414610f51d162bbe82887ea5c38c5bd8e5a446e62c0ece7e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-073/ses-07/eeg/sub-073_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "4f781e17cba92318703106c3018c69d7cb5f6ea218bd401b42952659b99affac",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "73"
+  },
+  {
+   "file": "sub-074/ses-01/eeg/sub-074_ses-01_task-ssvep_eeg.edf",
+   "bytes": 28433012,
+   "sha256": "c41914f303017ef6229e63ae040eeb8d0add0b66eb3c2d20663263f63d310303",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-074/ses-02/eeg/sub-074_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "8c8ccf6018f610c66f0197fc8b82064f99c4a48e9d29c8ebe894b3fa153052af",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-074/ses-03/eeg/sub-074_ses-03_task-ssvep_eeg.edf",
+   "bytes": 28945012,
+   "sha256": "4bc193b8249bdcd861779a23e71434babad40caa0dc2333bd2d7fc197c33d1d8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-074/ses-04/eeg/sub-074_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "a71ab02b4ecf01a393bc42eedefd28fe2462f0fb1ca38619dafeacfbfa5e14c7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-074/ses-05/eeg/sub-074_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "f306273c2c6c6cf272752a15676d4b1fd3156d61b658570ab80fda39c9b43ec2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-074/ses-06/eeg/sub-074_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "3aecb7d96129559d0de4a8aec7c9032077f9d2e6a041afc2f31653eb16d15f5b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-074/ses-07/eeg/sub-074_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "764ffb430caf9f9a2c901f588df8816a4c877aeaabb72bdf036fa584bcee9746",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "74"
+  },
+  {
+   "file": "sub-075/ses-01/eeg/sub-075_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "0422a63affda83acb2b2613c40c2681322cdcef13bae884dfeb89add47cebd42",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-075/ses-02/eeg/sub-075_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "00b0d995520ac285aefc643d12a6bb3ddd1e1ba6cbdc5bded9aea3783b7662da",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-075/ses-03/eeg/sub-075_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "78f26c2e690c8509c18211915e74b4246ccce331d5b115f703b7932f5c3595e9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-075/ses-04/eeg/sub-075_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "bf52b707c23d8513c6af59e2e58399bf2df652143c56eb45d442f04ffabdd7e5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-075/ses-05/eeg/sub-075_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "22141bd5aca8790b9bff760401ed2fcd5484c217b8a728fa2c2491e1809cb3e4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-075/ses-06/eeg/sub-075_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "181d76aab0664392170c29661499c5527c7816fcdcc373ec776ead3b51250ca8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-075/ses-07/eeg/sub-075_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "92eb35498f3319de4a52e220210184b7983856a92e71a4bea04a1c1325dbcf6f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "75"
+  },
+  {
+   "file": "sub-076/ses-01/eeg/sub-076_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1c77cec3902e779d916f419aa0f4af25929c3617ce467032f693288a1860591a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-076/ses-02/eeg/sub-076_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "31e6ec7bdef1e1725e877f9da4faa146f1dcab42a06aba04116b93d1eda1068d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-076/ses-03/eeg/sub-076_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "4809c36d9a7d554444378e866a62662f570e015d7bbfad0044abce2ad5c836dd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-076/ses-04/eeg/sub-076_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "17ca38a238c7da77e237bc5e05358e462c68a812d017e1e0aa79e0e26b2da650",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-076/ses-05/eeg/sub-076_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "77417235801cdfe5b32bd98d62d0e7f6ca09da2055d7b035a301e4e0a7d9357d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-076/ses-06/eeg/sub-076_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "d4097a938b9d4460dcea1039bd8f921e4fc63eb4af50adf5127ceb1b0bf01442",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-076/ses-07/eeg/sub-076_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "871740feeefcdc727d0ef65a3908806f293259dab45035c2abf7f405e4146e6b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "76"
+  },
+  {
+   "file": "sub-077/ses-01/eeg/sub-077_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "99f7c2322451fab708b9284534ddbbab13776101ac31efe79dcbcc83791d80a2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-077/ses-02/eeg/sub-077_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "35c5e75b5aed4f2c80cf295f9efb7a9f83ce76bdb3313dff18b5166cbf620905",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-077/ses-03/eeg/sub-077_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "511a98cff8c02344a3e5fa90ffa55f7327304d6b500c874d708dfa26ab24eab7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-077/ses-04/eeg/sub-077_ses-04_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "a3fa3197a974ac7ef4797415b3b2bddc444d7218b88a81d053ad035525657d8d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-077/ses-05/eeg/sub-077_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f473afc8ba6cdfda8dd2f2b7cc5d159696654db2de32497ac7b3b7e467b1183a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-077/ses-06/eeg/sub-077_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f2c9001a9b4139245faacbba0ad3d54a69f4ccfc34a54089d78b8009b84078ed",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-077/ses-07/eeg/sub-077_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f738f07bdc3a72a36e3c2a2dc21912d00be1b19687fc5137d24b2bb498873320",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "77"
+  },
+  {
+   "file": "sub-078/ses-01/eeg/sub-078_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "d5092d1bed9f36fc30bc21054be8183ba5c2d6c11abbccbd7d0c714a37bfae1d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-078/ses-02/eeg/sub-078_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "a6500a3aa952ff44a6c5a40f3a63ddbdab5867a9c843e966270c5be3036ae5f6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-078/ses-03/eeg/sub-078_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "c48097c3c95a092b8b7b741859aa3dca0e3ffa9de5298c02918a60e17314ab27",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-078/ses-04/eeg/sub-078_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "61d1ee4ff3b23ca7b914ebe9ddccb7b8886e39d0c48e2a00cb08b069d062b657",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-078/ses-05/eeg/sub-078_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "b584afd749ab5fe57631476f4bcdf24a86b1b296f5c3b9b34d3838bc0c80789c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-078/ses-06/eeg/sub-078_ses-06_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "e52d7f9a7ccbe2fed5d2132988b6990cfd21b0e191bee5fa5f5574bb1037529f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-078/ses-07/eeg/sub-078_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "cc52723cbef1910f152cbb0e7d33a2f4a6ab24edace28eff4449dfdeb3afa5e1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "78"
+  },
+  {
+   "file": "sub-079/ses-01/eeg/sub-079_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "6837c8b74bdcbf66dff0941488b8a955f545970c0a9076d091c99f3698b69a6c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-079/ses-02/eeg/sub-079_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "368aaf05af1ac62c489bcb3d1f8ab110a7bb51e15bd043363283d6a988595c0f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-079/ses-03/eeg/sub-079_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "3d5388a0e75020ec16a1521cce28ae59ac931068d9777998a25c0cffea08b79b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-079/ses-04/eeg/sub-079_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "8407b62507837f748c729b2343bbee3f3f5fa40efded5b2463ce4a216687aeda",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-079/ses-05/eeg/sub-079_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "f626e5fbdef79465cf0626b7190b5d71170e7f6ed6132f9205eecc2e0adef8d9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-079/ses-06/eeg/sub-079_ses-06_task-ssvep_eeg.edf",
+   "bytes": 28945012,
+   "sha256": "078b8075f5bd27aad23aa0a462db9155a7b581487d79443f2d08e18f77f6fc70",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-079/ses-07/eeg/sub-079_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f46fba1751c7c0113a23cf9b660abd33dc5961c1532222cf863b6cf56b002cf1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "79"
+  },
+  {
+   "file": "sub-080/ses-01/eeg/sub-080_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "1d9e4b83a40c0a7250b637c3f73ff1c49b9a2f521870bd447412ca32e0467a0b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-080/ses-02/eeg/sub-080_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "ba8c91e879318c9fd02b0c4ddb66c0d944956c0ef3cff3bb662f7de3773f5927",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-080/ses-03/eeg/sub-080_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "0c5c7b8b741618d997f039a6b1a84e280184852e68a637ce0264bf248845af77",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-080/ses-04/eeg/sub-080_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "5533f8143ee676ea3650d8bae7c247b70f5895c4f6c63c73cd6af9bbcaaf09fe",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-080/ses-05/eeg/sub-080_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "ef8bd3df00b8057a211a9bd5169530ea9142937ddff2dc1165a47ed2ae02017b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-080/ses-06/eeg/sub-080_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "d35e9755682608b8ea84e3a40a303aed7274ba7697a9eb531690cd390d724202",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-080/ses-07/eeg/sub-080_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "5adc11acb626341e59a5527b8ddc9bf8adaf346d9a353cec3a1ad3b13cb518ee",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "80"
+  },
+  {
+   "file": "sub-081/ses-01/eeg/sub-081_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "bcfae73aa6b380f9eadf853b4eada45bb8fe5bc08b7e034a1aab07d0223027a2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-081/ses-02/eeg/sub-081_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "b3f7dcac1c4ae8057c9ebe531ea8450d363c86bacd5be5ec55e1c56f063fe6b2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-081/ses-03/eeg/sub-081_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "3391161b70f2813988cfc8501f74296b49f0ab28a59a0eee1ec5da3f47c7f2ae",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-081/ses-04/eeg/sub-081_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "c6a64bcf813d48274ccb5ca68b4a5bf69cbc9dadb5eeadeabd8324e72adcb60d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-081/ses-05/eeg/sub-081_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "795a1c8f1cfa1e5807e268727d8d3a881833c173f5a50c294893f777c616d075",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-081/ses-06/eeg/sub-081_ses-06_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "f53752ea0c3990ef65a56b99251a98a6c4248b0034e37b77c21e5a5bb530dd07",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-081/ses-07/eeg/sub-081_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "ed492ac7dd1b692e3bcbbd4cf563b1a2b7405d5b7757801a28038b7426472a50",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "81"
+  },
+  {
+   "file": "sub-082/ses-01/eeg/sub-082_ses-01_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "09172926770638a24e9d837090d128c17131e091a9e568d0831faa6d40db6bdd",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-082/ses-02/eeg/sub-082_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "7266322b90a0091f26176da2037503c2291d846de1e0b7d2f4dc87c76b2445f5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-082/ses-03/eeg/sub-082_ses-03_task-ssvep_eeg.edf",
+   "bytes": 27665012,
+   "sha256": "46227840f09fad5d5f038dd9666b7eadfb71c587eb9e0409aac8a059832234d9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-082/ses-04/eeg/sub-082_ses-04_task-ssvep_eeg.edf",
+   "bytes": 29457012,
+   "sha256": "e0f7149a1415e881de6b9923152b69aa3029b1a8de13062779841e38d729a4b6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-082/ses-05/eeg/sub-082_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "83b4108e72c988c4945a3e5fcda3de8ecdc4dd6f0af29c30604db7295583c6e3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-082/ses-06/eeg/sub-082_ses-06_task-ssvep_eeg.edf",
+   "bytes": 29713012,
+   "sha256": "12c1437e62864e274056ab8c3e3c0ab2b31d20ec31e071fadc1d70195b41f0b8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-082/ses-07/eeg/sub-082_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "16c1b8275f81249f43634cdd81c5ac950e38e74d7eac390463e0a01dd953bd52",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "82"
+  },
+  {
+   "file": "sub-083/ses-01/eeg/sub-083_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "5c884af158378976a2a7dcd858b4f1b10a62713bb770cac1d8899cc93e9ffc9a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-083/ses-02/eeg/sub-083_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "809dc2ba7ebf9eb65dcdc263c2bbb1519cf1c52b0584180b750444b60868cb2e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-083/ses-03/eeg/sub-083_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "9bcd4b303578cf6f241e80906b8c5be3958a98b28ffcf3ce6dfdc5229288ffb7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-083/ses-04/eeg/sub-083_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "3a1ce423d81711d83f8854aa64bde03d7f62952c8550381e1e35f0d777324d3d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-083/ses-05/eeg/sub-083_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "fd8e38fa18c5c4cdbaba329de2d56f59261e480bfad6a3f439941d52ca31ee27",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-083/ses-06/eeg/sub-083_ses-06_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "a42486bc71a4a63601e5e988ad939dd3c5bcf49dfcb462c02ec172796095adf0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-083/ses-07/eeg/sub-083_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "bd6d0a1695965bd41c8a32ae0dbf693fbe52ae11defd09cabe4e250a349e44a6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "83"
+  },
+  {
+   "file": "sub-084/ses-01/eeg/sub-084_ses-01_task-ssvep_eeg.edf",
+   "bytes": 30737012,
+   "sha256": "ae6930ae540dca5cf27d4354c575b8256f02815d8ae136dd425147fd32163ad6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-084/ses-02/eeg/sub-084_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "8b1c96d63104bd2481287d9dac414991356629b3516431cbd775e50123a1da76",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-084/ses-03/eeg/sub-084_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "8a44a2a44350b0a1cee86ebecd92091ca86fb5d25fbfa4d841eceb1b9fd09dbb",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-084/ses-04/eeg/sub-084_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "fdf3012f7b8669e9b658446880cebf188b635f8ae5666ba923b0ea5d007f2a76",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-084/ses-05/eeg/sub-084_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f9be23259d3184196ce6689a76c933b1fbdd4ce6e679c7b01c2c81e882db5242",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-084/ses-06/eeg/sub-084_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f9bee23a95f9469610fe91ddf5ea9f9f6ad651ad0d3c608ee08d95df926326c1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-084/ses-07/eeg/sub-084_ses-07_task-ssvep_eeg.edf",
+   "bytes": 27921012,
+   "sha256": "3330db9a016244bf34aca918db2ae81bbc9aa1212f72b44e6b0f695ac971b93f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "84"
+  },
+  {
+   "file": "sub-085/ses-01/eeg/sub-085_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "a56768a06f7da856eeff49804113eac50e47ff5096795a4233179c9f0e55827a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-085/ses-02/eeg/sub-085_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "160f4e64bf8ce57ab5ea2c862299b01e0738b98f8f6099b4fecdebefb64d6f1c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-085/ses-03/eeg/sub-085_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "0c3aa6d39755bb26ee027f29573a416c6ab57d666dc0b32eadf8b49fd252148c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-085/ses-04/eeg/sub-085_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "bb511b4b6957b1441dacca5aec3c0340efcf5a1434fe93dd2317e97ea346c7f7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-085/ses-05/eeg/sub-085_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "7b4d5b8cf7e496d24a7e0290ec41ec9f161799071c72694a8cdf8adfbcbd5f2b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-085/ses-06/eeg/sub-085_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "1ba133c0a172af3803fa445dd20ed4932a1e71036bb13dadbb8f623e12480918",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-085/ses-07/eeg/sub-085_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "5845a1fcb25627ed5ee7b0760b9b6a99d7bd798b12f108d877fe570cb612191f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "85"
+  },
+  {
+   "file": "sub-086/ses-01/eeg/sub-086_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6eaf29a691dec3eb5b21550a49ec4c6832e7213b463c6c36eec1cfca9a9fb67b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-086/ses-02/eeg/sub-086_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "ed11d2cdc69442b4f814c79be67272beaf33a029c71e06b8c364e5a3626726c4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-086/ses-03/eeg/sub-086_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "eb186c21d38a23621653cc10715485347a1aec2c5ad64a9cf67c84ded76b02ed",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-086/ses-04/eeg/sub-086_ses-04_task-ssvep_eeg.edf",
+   "bytes": 46609012,
+   "sha256": "21d1cce609feb91a50bdda08e5b1da6feaf6f3b343c247f3509e54f91e46e1e4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-086/ses-05/eeg/sub-086_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "6e1f65345ff4ffe5d011c1a35dbd3d2ae5448193cbb4e5a5e53ed79e47db81ac",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-086/ses-06/eeg/sub-086_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f46fdb6e36b639003db11853a94b7e18fda6ef79289af0b28efc813483bb1885",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-086/ses-07/eeg/sub-086_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "2b209a5fc75c8b319cc148c0b9f3c3a6b79c0f9b033fa0c1ee8007d1a9cb7a08",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "86"
+  },
+  {
+   "file": "sub-087/ses-01/eeg/sub-087_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "968ae72814592df9982138b4ae984e2b1f1ed0eaf3aa24325f699748631315d2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-087/ses-02/eeg/sub-087_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "aacaa37bb8c6b8a16106fd195cb0ab2cbdcf7f37a1e65e1bd6da67fd25fb6cb5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-087/ses-03/eeg/sub-087_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "0c242b9999a2fae336fba95931cc29df3aacf2e6c395c3348ad035b78c0bfe84",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-087/ses-04/eeg/sub-087_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "c661b3f67f7b7be5a07f4d609a108acd9b99b8f80c1d80a0c26efe86066ca147",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-087/ses-05/eeg/sub-087_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "ca3c6137cfe655eb776311487a060891b28b24544d75660f884ae542e0e6b562",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-087/ses-06/eeg/sub-087_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "e06bee6b3f9864ff464a52e3ae24fe3afbec6d50e6d3b62e20cb511286725252",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-087/ses-07/eeg/sub-087_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1425f7b7f3a4b5c67f29265b8d4da12504e53fe469d07d2ebe5bac66b0ee7248",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "87"
+  },
+  {
+   "file": "sub-088/ses-01/eeg/sub-088_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "5f27a6dc6a493d11ff677789e442775550c6652b252e66fed3687e9e1f5b46b4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-088/ses-02/eeg/sub-088_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "5288c7da68fa86a38e653d5f34f525eb057aa7ca5058ce1f642938e0ce1a03a1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-088/ses-03/eeg/sub-088_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "89dc4659467645210a56ba901e2f7def7c481b5a7da866c7f63b8fd3b3750a6d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-088/ses-04/eeg/sub-088_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "da4fa46ca0b38890685535d3e7f5ce620015a4d65f5d7e63fdd8ef99e3d41d45",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-088/ses-05/eeg/sub-088_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "8fcf391c640b66dc59085fdf8db1f58ed28c45b7a51bc5498e41d4aa50cb2163",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-088/ses-06/eeg/sub-088_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "6fe4e85f21304d1cf1939a779911ad91969d127491cebc08b46b5748b4ebc5e2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-088/ses-07/eeg/sub-088_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "bfda26fa960f6d2dff5e287b3bb71b361e2fb016bcaef799b963881cf2fe8989",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "88"
+  },
+  {
+   "file": "sub-089/ses-01/eeg/sub-089_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "b0388d95c53fbfa45983c55b19d0025293485b48a5663feb4f079516abe9ce3b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-089/ses-02/eeg/sub-089_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "cce837a23123e679f088b8a526148b5da3fcec256ed2cefc8212c66f74fd2c5b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-089/ses-03/eeg/sub-089_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "a3993215f1f3d671102116738dd5c4be9dc8828411ff54a4a24a7ccb28b3c598",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-089/ses-04/eeg/sub-089_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "da8c86c8e45a8d8b2df97380528e51976eda50baeefb9c8d3a07363917035716",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-089/ses-05/eeg/sub-089_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7e63d8ae4693571ef2489d9a43acc6c518fbb4edbe84034eec8239a2e87234aa",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-089/ses-06/eeg/sub-089_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "d669f9de23fb86d984148da605710a0f071c48750dcfc5278d8e47770ed4db3f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-089/ses-07/eeg/sub-089_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "26f79bfa1d8a47e008bb6fcc09d494e4616f2170a09e1e1d0fae27dbceccd6ad",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "89"
+  },
+  {
+   "file": "sub-090/ses-01/eeg/sub-090_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "1f69828327e140d9785b9364b13e3195ed9c83636b5c9ea4d2695a90f2c99a6a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-090/ses-02/eeg/sub-090_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "7805ee36f3d8ccc9c28a666ebc6c1ab8ed844bb21f48dad062ff3654fc0f0961",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-090/ses-03/eeg/sub-090_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "6dcecc931ae4eb100752a8a24d120fbba06dd842636cb274d487d7448f104074",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-090/ses-04/eeg/sub-090_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "4af61b4afa0a6a02a1cb7a71aa92ef3a391b7fb24299cdfb7c309f7691280053",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-090/ses-05/eeg/sub-090_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "44140d44f522dcf02e6a28721a548a9b7e8eacc85e83ed0de9868d53d5f57472",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-090/ses-06/eeg/sub-090_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "606701beee6a35456763a5ddc97ec1210c15539de10ed9f1dc5557da42551c98",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-090/ses-07/eeg/sub-090_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "859a5419f46cbadc0f7529d025aa43262d901a247785ccd2e2b3c243c8d4c8d6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "90"
+  },
+  {
+   "file": "sub-091/ses-01/eeg/sub-091_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "12d43f5ef7374e9ca09baeef75b1132eb0838b9f02a49453d0cd468257818d3a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-091/ses-02/eeg/sub-091_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "e9163ae6ef74f1ad85ea7c4f13ba34d7d4bf18510275f15104f36a2dd2530ca7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-091/ses-03/eeg/sub-091_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "cc95bd7f0bb825ace34c8d7563f3d3406de5e9f853cfeebd67b49f5ee7fec95f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-091/ses-04/eeg/sub-091_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "150d716a81b9288e3b8ede65ef440435c9e384481b9604b6d6eae5a2ce379035",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-091/ses-05/eeg/sub-091_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "79c236a768437087eb8162a0c0b831c69ef78ddc3b7a3fab1dac7db3539488a9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-091/ses-06/eeg/sub-091_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "780dc4e0203ac088b3aee49e743bdff0f238c5f37375a2bf564d787666f92824",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-091/ses-07/eeg/sub-091_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "3f75c797af85b63787298330831d43ac1ab02d8560c2707506db09cc551fa03a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "91"
+  },
+  {
+   "file": "sub-092/ses-01/eeg/sub-092_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "08281da888b98c851ebeb8507089f9e42113cfc8c872b5183b698471547f24ef",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-092/ses-02/eeg/sub-092_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "6c435189b087871d703f36264d3fbb45eb7fcdbfc50177b8a9eb1614f23d3a13",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-092/ses-03/eeg/sub-092_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "65868d05f938f8aaa5ef48b417b4e258747af0e75a5af8280af5c56a342843e3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-092/ses-04/eeg/sub-092_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "05f18a8330abbe2ca3adc3526ca77e97ccd4097b4541c7139419b6e006f08133",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-092/ses-05/eeg/sub-092_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "10ada2a761fcadb9a2a9732c59b4e1094c16bab616dee2757d212472a21b1d2b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-092/ses-06/eeg/sub-092_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "c853cbff82d408346945703251309be8c2fc4d7e336b0bc981e87fae07b0cb0d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-092/ses-07/eeg/sub-092_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "640019c0dc2621770bf18904e5b3ac72c437b3daf86085e0c7f2a584a65a1b70",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "92"
+  },
+  {
+   "file": "sub-093/ses-01/eeg/sub-093_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "49c2e6a45bab1b4df844d2c6c53044cd76ac665756b6f27d56f87a018baf30f5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-093/ses-02/eeg/sub-093_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "d8beaa14418014223e6f9f5cbec79816cb7918194c33ddb939899c46913ba7f9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-093/ses-03/eeg/sub-093_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "0ec4dc734290f113110ba7c2c05f2d4852eb216d543abf2d53196bf5ec4e1f93",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-093/ses-04/eeg/sub-093_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "a0f64f2c26ef2106bf3297d5756c9903bb31af07af87de8fcf02dd0876e192bf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-093/ses-05/eeg/sub-093_ses-05_task-ssvep_eeg.edf",
+   "bytes": 27409012,
+   "sha256": "bee40e10fb34dd63cff481510b2c18ec15b18ad0ba3bb34ae3b2408b06454ab2",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-093/ses-06/eeg/sub-093_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "9f5ee48c08cf7d57ef6163572b8a9eb8ca259b29919950a123a9685c1568190f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-093/ses-07/eeg/sub-093_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "40cb6c75b992a9de632ede1d5165216281362b2a471e1dfa9d171f218cc13dc5",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "93"
+  },
+  {
+   "file": "sub-094/ses-01/eeg/sub-094_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "ee23581e5c66a9c295d1f289f08c2e78b0ec647bc2e46c6570ba65083ed46dab",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-094/ses-02/eeg/sub-094_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "17c336c9e002ac249820421b501f7818224a13f3d7b4746f4a61369f23389224",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-094/ses-03/eeg/sub-094_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "c7eb8f6c40ad8d644c56a02120151266127f2d5b5dd79979776500aede17b225",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-094/ses-04/eeg/sub-094_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "a5445c6e1ed2da4964ea2ad2a05e3e5dcd489398d63f8af83394d23c4174eb38",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-094/ses-05/eeg/sub-094_ses-05_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "73b7ea9e15f57dc48a8a76a55cec7a9fe58d286130d306334eab54c6e80d3710",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-094/ses-06/eeg/sub-094_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "42e221f12dcfd0182dd505680f0cce331bb5fc56ad5a2506aa16946616b18e46",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-094/ses-07/eeg/sub-094_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "c620ca073e0add1859ad6b8811183e2928871452b2de356679cc22541c0c81a8",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "94"
+  },
+  {
+   "file": "sub-095/ses-01/eeg/sub-095_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "7cf1cfdc012604d2e57ad355139f579d7add39130979232d34dacfdc3bb4f49e",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-095/ses-02/eeg/sub-095_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "9559ccfd6031033360f48b09f03a8f5ad2851a1d08034c928a1f9a3a5cdd990b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-095/ses-03/eeg/sub-095_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "7769b1e413b4eb806388e3562ca85f39f24f2497be52c187e54249999ec73f86",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-095/ses-04/eeg/sub-095_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "f4789091fd5ce1917a005ad7b9e71460bfe6cb3e30e9ba3d5060ecb8b789fdd0",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-095/ses-05/eeg/sub-095_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "945e9e2c85db61c5d575dfcbf4ddbf6e88a70ce71a0754edde0d506bf4ff0907",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-095/ses-06/eeg/sub-095_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26897012,
+   "sha256": "5cd5e76370e0940f6a112ae761abf3ba847e97d30e5002d045d24e46dc54303f",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-095/ses-07/eeg/sub-095_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "e325306a61416e0e4dda6c799f8c96d2858a5e8efb7656cc5d9363ec4a8c1f38",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "95"
+  },
+  {
+   "file": "sub-096/ses-01/eeg/sub-096_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "582351107dcd926606418f7436d6be2d6cdfa9d942c3bd84219e1b00caa7c72d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-096/ses-02/eeg/sub-096_ses-02_task-ssvep_eeg.edf",
+   "bytes": 27153012,
+   "sha256": "476e63255facd95abca3c7091588fa5d2ebf1a028d31ac49f1cb3e9cf50effaf",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-096/ses-03/eeg/sub-096_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "2f778e97d25c9f4ac20884bb7b960c58cfa8cc5ab9043c588ad83b5670256b7d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-096/ses-04/eeg/sub-096_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "624b6c353d365a0ae8f18d28a6f4f8946a35f2450229c604e1a3f053eb0a5919",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-096/ses-05/eeg/sub-096_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "8e063823ec9dbc4440f46c4c455950543c3a3b6a150ac7ff19d1ec4179f3e165",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-096/ses-06/eeg/sub-096_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "0c1ba5bae88d85fc5a215340cae62fb764006c104aa161500977b313d2357864",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-096/ses-07/eeg/sub-096_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "8a9c1c3f419fa071d21740077134acaedce6360ddd7760d8c007158172e08e52",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "96"
+  },
+  {
+   "file": "sub-097/ses-01/eeg/sub-097_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "35f2f496f088125086de3891115f5e61243d5c93cc3b39d77dabcbed29c8bbed",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-097/ses-02/eeg/sub-097_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "04fbc94c37aafd1d015b98969d5d3befd4eabbf40e0fae9850a8a4fe432c6e95",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-097/ses-03/eeg/sub-097_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "f9273075b6ae85d26ddc9ac4843b8ce435beb6a16925c8ca300a0fb49d7bcd24",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-097/ses-04/eeg/sub-097_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "95b41ccb6d6dc60caf619702c2c2949bce5afd311f0b202b5a8206b09366a232",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-097/ses-05/eeg/sub-097_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "e7d385592037574387d409ce5e0bf7cde6f140363b32d344baca9b245969f373",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-097/ses-06/eeg/sub-097_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "84ad3298553ed311126995388c293e3aa5f77fa7af0931103a997226e2b2f554",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-097/ses-07/eeg/sub-097_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "01b54a2a2392ce5345c2b27d86137ceb3003801b39de8f37c431efdab371bb6b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "97"
+  },
+  {
+   "file": "sub-098/ses-01/eeg/sub-098_ses-01_task-ssvep_eeg.edf",
+   "bytes": 25361012,
+   "sha256": "b46a9a8ddfb5ee324bf5006d62c6cede4d011120a0d1110b304a5daad94be3f7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-098/ses-02/eeg/sub-098_ses-02_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "cf06ded64b65196219199527a8f23bb93dc8d5b9cd5d12ed608af339d39cfc43",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-098/ses-03/eeg/sub-098_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "a321c54c65cb666ad78dc3a126738fade6282ab2fc0b4070ff523607db6e4f16",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-098/ses-04/eeg/sub-098_ses-04_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "b9df41ff6df50c3b67f96848aa736b5c5a65a0f35e6df3fa2b64bec866901864",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-098/ses-05/eeg/sub-098_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "a580cf4cf065b48f57fd447acd1bef82fee2087352fd74bba21627081e15381c",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-098/ses-06/eeg/sub-098_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "6953b7ea00ee22e862b3376b84913fab67f6cb7860e842d9dee08a882e1a39e3",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-098/ses-07/eeg/sub-098_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "3978c765e9560de825747c12f095d8944cd3f8a99c0ab2268804b06d450db849",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "98"
+  },
+  {
+   "file": "sub-099/ses-01/eeg/sub-099_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26641012,
+   "sha256": "8a57bfaa2978392e5ff8aa32e1bddd9a822c9c198a6bb723acd2f0e041aac593",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-099/ses-02/eeg/sub-099_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "07bb29fa05a2dea9d57da2dfa431a51bc16bb6183dc6d9d911cca736292face6",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-099/ses-03/eeg/sub-099_ses-03_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "9db9855cc0db5fb3628a70662a05b02fdd96c0d3c96cb8d8218087b6a4083b7d",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-099/ses-04/eeg/sub-099_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "16813228648a75c561dc910ed5ed5137b86bb3e8d0b12a13224a55adb8d5a8f9",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-099/ses-05/eeg/sub-099_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "f4043f53ae84a32873684d42f396485ca63dd721dfb6accca4dd872360354d99",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-099/ses-06/eeg/sub-099_ses-06_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "899a0940f4684a77ed2554a178ef46504ae89fd4de780b7aa0e80f68df59423b",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-099/ses-07/eeg/sub-099_ses-07_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "15602ae2ec8aeb37fcf551f1b9e5e3a53049bfb2f4abb3e34b66a50cdade5f03",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "99"
+  },
+  {
+   "file": "sub-100/ses-01/eeg/sub-100_ses-01_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "5c308baa88d283a3f52af989a631b0dd507b87c9605526a594ab28894fdf35b7",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  },
+  {
+   "file": "sub-100/ses-02/eeg/sub-100_ses-02_task-ssvep_eeg.edf",
+   "bytes": 26385012,
+   "sha256": "59960e4f6c8ab9731a99489e1959f6d13ecb0fef8093b7818dda3c5abf288989",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  },
+  {
+   "file": "sub-100/ses-03/eeg/sub-100_ses-03_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "a0d259eb41bcbdd84b18afed88cc1f1e3b828551f4c0dc57a20a83e0c0a83630",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  },
+  {
+   "file": "sub-100/ses-04/eeg/sub-100_ses-04_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "01d77ba2025fc74b02e0734d8a7f58dfe82a2b556edd01a1f952473e4dc930fa",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  },
+  {
+   "file": "sub-100/ses-05/eeg/sub-100_ses-05_task-ssvep_eeg.edf",
+   "bytes": 25617012,
+   "sha256": "4fe7aff8450af4a33bca4ee6be056fa2147ec8027a8247d94f11dfaf0af510b4",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  },
+  {
+   "file": "sub-100/ses-06/eeg/sub-100_ses-06_task-ssvep_eeg.edf",
+   "bytes": 25873012,
+   "sha256": "de8c6e14cd118e1aa53a8e8c32ef522bbbbc3a88caf3733888d8b25b572f278a",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  },
+  {
+   "file": "sub-100/ses-07/eeg/sub-100_ses-07_task-ssvep_eeg.edf",
+   "bytes": 26129012,
+   "sha256": "89cf6e6ca10f556c11d8168426cd4e248c8d7ce67bea0184d1f7d9e455d418b1",
+   "scope": "subject",
+   "how": "data_path",
+   "subject": "100"
+  }
+ ],
+ "n_subjects_recorded": 100,
+ "n_subject_scoped_files": 700,
+ "n_dataset_scoped_files": 0,
+ "scope_semantics": "Each file carries scope=subject or scope=dataset. scope=subject files have a subject field and belong to that subject alone. scope=dataset files belong to no single subject -- a montage, a README, band or interval definitions -- and are needed whichever subject is fetched. The how field records which rule decided: data_path (moabb returned it for exactly one subject), returned_for_several_subjects, sibling_of_subject_file (a companion such as an EEGLAB .fdt, inherited from a directory whose attributed files all share one subject), or not_returned_by_data_path."
+}
