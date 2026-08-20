@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Liu2022 – eldBETA SSVEP benchmark dataset for elderly population",
-  "description": "The eldBETA dataset comprises 64-channel EEG recordings from 100 healthy elderly participants (aged 51-81 years) performing a 9-target steady-state visual evoked potential (SSVEP) brain-computer interface task. Using joint frequency and phase modulation stimuli across frequencies ranging from 8.0 to 12.0 Hz, the dataset contains 7 sessions per subject with visual feedback in a speller paradigm. This benchmark dataset is designed to support the development and evaluation of SSVEP-BCI systems for aging populations.",
-  "methods_description": "EEG data were acquired at 1000 Hz using a 64-channel Synamps2 system (Neuroscan) with standard 10-05 montage referenced to Cz. Participants completed 7 blocks of 9 trials each, with each trial consisting of a 4-second target cue followed by 5 seconds of SSVEP stimulation and 1 second rest. Nine SSVEP targets were presented in a 3×3 matrix using joint frequency and phase modulation with frequencies from 8.0 to 12.0 Hz (0.5 Hz step).",
+  "description": "This dataset (eldBETA) provides 64-channel SSVEP-BCI EEG recordings from 100 elderly participants (aged 51-81, mean 63.17 years) performing a 9-target speller task using joint frequency and phase modulation (JFPM) stimuli. Each subject completed 7 sessions of 7 blocks with 9 trials each, recorded at 1000 Hz using a Synamps2 (Neuroscan) amplifier with a Cz reference. The dataset is intended as a benchmark for SSVEP-BCI algorithms in aging populations and has been converted to BIDS format with HED event annotations for use in the MOABB benchmarking framework.",
+  "methods_description": "EEG was recorded from 64 channels at 1000 Hz using a Synamps2 (Neuroscan) amplifier with a standard_1005 montage and Cz reference. Participants performed a 9-target SSVEP speller task using joint frequency and phase modulation (JFPM) visual flicker stimuli, with frequencies ranging from 8.0 to 12.0 Hz in 0.5 Hz steps. Each trial consisted of a 4 s cue, 5 s of SSVEP stimulation, and 1 s rest; each subject completed 7 blocks of 9 trials across 7 sessions.",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -19,19 +19,26 @@
       "term": "SSVEP"
     },
     {
-      "term": "brain-computer interfaces"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
-      "term": "EEG"
-    },
-    {
-      "term": "aging"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "elderly"
     },
     {
-      "term": "benchmark dataset"
+      "term": "aging"
+    },
+    {
+      "term": "benchmark"
+    },
+    {
+      "term": "JFPM"
     }
   ],
   "related_identifiers": [
@@ -75,13 +82,8 @@
       "award_number": "62171473"
     },
     {
-      "funder_name": "Tsinghua University",
-      "award_title": "Doctoral Brain+X Seed Grant Program"
-    },
-    {
-      "funder_name": "Chinese Academy of Sciences",
-      "award_number": "XDB32040200",
-      "award_title": "Strategic Priority Research Program"
+      "funder_name": "Strategic Priority Research Program of Chinese Academy of Sciences",
+      "award_number": "XDB32040200"
     }
   ],
   "resource_type_general": "Dataset",
@@ -102,5 +104,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "68b7e2f486b8eb2a7535b1478aa0b5d17a9d30387e9ed834a1fdb06c8fa640ed"
+  "source_hash": "f20a02fad36f997466b1d6b5b83cbfb98b5f5053202169e3c6aa98dcee08a9ec"
 }
