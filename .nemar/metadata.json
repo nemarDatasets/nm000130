@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Liu2022 – eldBETA SSVEP benchmark dataset for elderly population",
-  "description": "This dataset (eldBETA) provides 64-channel SSVEP-BCI EEG recordings from 100 elderly participants (aged 51-81, mean 63.17 years) performing a 9-target speller task using joint frequency and phase modulation (JFPM) stimuli. Each subject completed 7 sessions of 7 blocks with 9 trials each, recorded at 1000 Hz using a Synamps2 (Neuroscan) amplifier with a Cz reference. The dataset is intended as a benchmark for SSVEP-BCI algorithms in aging populations and has been converted to BIDS format with HED event annotations for use in the MOABB benchmarking framework.",
-  "methods_description": "EEG was recorded from 64 channels at 1000 Hz using a Synamps2 (Neuroscan) amplifier with a standard_1005 montage and Cz reference. Participants performed a 9-target SSVEP speller task using joint frequency and phase modulation (JFPM) visual flicker stimuli, with frequencies ranging from 8.0 to 12.0 Hz in 0.5 Hz steps. Each trial consisted of a 4 s cue, 5 s of SSVEP stimulation, and 1 s rest; each subject completed 7 blocks of 9 trials across 7 sessions.",
+  "description": "The eldBETA dataset contains 64-channel EEG recordings from 100 elderly participants (aged 51-81) performing a 9-target SSVEP-based brain-computer interface speller task. Stimuli used joint frequency and phase modulation (JFPM) at 8-12 Hz in 0.5 Hz steps, with 7 blocks of 9 trials per participant. It serves as a benchmark for evaluating SSVEP-BCI algorithms in an aging population.",
+  "methods_description": "EEG was recorded at 1000 Hz using a Synamps2 amplifier (Neuroscan) with 64 channels, Cz reference, and impedance kept below 20 kOhm. Each trial comprised a 4 s target cue, 5 s of JFPM SSVEP stimulation, and 1 s of rest. Participants completed 7 blocks of 9 trials each.",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -19,26 +19,22 @@
       "term": "SSVEP"
     },
     {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+      "term": "EEG"
     },
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    },
-    {
-      "term": "elderly"
+      "term": "brain-computer interface"
     },
     {
       "term": "aging"
     },
     {
+      "term": "elderly"
+    },
+    {
       "term": "benchmark"
     },
     {
-      "term": "JFPM"
+      "term": "joint frequency and phase modulation"
     }
   ],
   "related_identifiers": [
@@ -50,7 +46,7 @@
     {
       "identifier": "10.6084/m9.figshare.18032669",
       "identifier_type": "DOI",
-      "relation_type": "References"
+      "relation_type": "IsDerivedFrom"
     },
     {
       "identifier": "https://github.com/nemarDatasets/nm000130",
@@ -92,7 +88,7 @@
     "eeg"
   ],
   "sizes": [
-    "37.3 GB (1404 files)"
+    "34.76 GB (1404 files)"
   ],
   "formats": [
     ".edf",
