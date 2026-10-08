@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Liu2022 – eldBETA SSVEP benchmark dataset for elderly population",
-  "description": "The eldBETA dataset contains 64-channel EEG recordings from 100 elderly participants (aged 51-81) performing a 9-target SSVEP-based brain-computer interface speller task. Stimuli used joint frequency and phase modulation (JFPM) at 8-12 Hz in 0.5 Hz steps, with 7 blocks of 9 trials per participant. It serves as a benchmark for evaluating SSVEP-BCI algorithms in an aging population.",
-  "methods_description": "EEG was recorded at 1000 Hz using a Synamps2 amplifier (Neuroscan) with 64 channels, Cz reference, and impedance kept below 20 kOhm. Each trial comprised a 4 s target cue, 5 s of JFPM SSVEP stimulation, and 1 s of rest. Participants completed 7 blocks of 9 trials each.",
+  "description": "The eldBETA dataset contains 64-channel EEG recordings from 100 elderly participants (aged 51-81 years) performing a 9-target SSVEP-based brain-computer interface speller task. Stimuli used joint frequency and phase modulation (JFPM) at 8-12 Hz in 0.5 Hz steps, with each participant completing 7 blocks of 9 trials. The dataset serves as a benchmark for developing and evaluating SSVEP-BCI algorithms for the aging population.",
+  "methods_description": "EEG was recorded at 1000 Hz with a 64-channel Synamps2 (Neuroscan) amplifier, referenced to Cz, with impedance kept below 20 kOhm. Each trial consisted of a 4 s target cue, 5 s of JFPM SSVEP stimulation in a 3x3 target matrix, and 1 s rest. Each participant completed 7 blocks of 9 trials.",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -19,16 +19,16 @@
       "term": "SSVEP"
     },
     {
-      "term": "EEG"
-    },
-    {
       "term": "brain-computer interface"
     },
     {
-      "term": "aging"
+      "term": "EEG"
     },
     {
       "term": "elderly"
+    },
+    {
+      "term": "aging"
     },
     {
       "term": "benchmark"
@@ -100,5 +100,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "f20a02fad36f997466b1d6b5b83cbfb98b5f5053202169e3c6aa98dcee08a9ec"
+  "source_hash": "766abc12b96389c877fd098b00bf202dfc5fe3e01ac19072c75dec9e0c6efc3d"
 }
